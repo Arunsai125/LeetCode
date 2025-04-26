@@ -69,6 +69,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0004-median-of-two-sorted-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Arunsai125/LeetCode/tree/master/0027-remove-element) |
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Arunsai125/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3738-make-array-non-decreasing](https://github.com/Arunsai125/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Hash Table
@@ -122,6 +123,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Arunsai125/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Two Pointers
 |  |
@@ -139,4 +141,5 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
