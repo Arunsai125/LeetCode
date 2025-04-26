@@ -71,6 +71,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Arunsai125/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/Arunsai125/LeetCode/tree/master/0605-can-place-flowers) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Arunsai125/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3738-make-array-non-decreasing](https://github.com/Arunsai125/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Hash Table
@@ -118,6 +119,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Arunsai125/LeetCode/tree/master/0605-can-place-flowers) |
 | [3738-make-array-non-decreasing](https://github.com/Arunsai125/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
