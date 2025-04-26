@@ -5,8 +5,7 @@ class Solution {
         int start=0;
         while(true){
             if(visited[start]) break;
-            String val = instructions[start];
-            if(val.equals("jump")){
+            if(instructions[start].charAt(0) == 'j'){
                 visited[start] = true;
                 start += values[start];
                 if(start<0 || start>=values.length) break;
