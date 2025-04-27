@@ -182,6 +182,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Arunsai125/LeetCode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/Arunsai125/LeetCode/tree/master/0461-hamming-distance) |
 ## Sorting
 |  |
 | ------- |
