@@ -86,6 +86,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0001-two-sum](https://github.com/Arunsai125/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arunsai125/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Arunsai125/LeetCode/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/Arunsai125/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arunsai125/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -103,6 +104,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0002-add-two-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Arunsai125/LeetCode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Arunsai125/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Arunsai125/LeetCode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Arunsai125/LeetCode/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
@@ -156,6 +158,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Arunsai125/LeetCode/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/Arunsai125/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Depth-First Search
 |  |
