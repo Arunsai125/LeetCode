@@ -179,6 +179,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0070-climbing-stairs](https://github.com/Arunsai125/LeetCode/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Arunsai125/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/Arunsai125/LeetCode/tree/master/0338-counting-bits) |
 ## Memoization
 |  |
 | ------- |
@@ -186,6 +187,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Arunsai125/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Arunsai125/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Arunsai125/LeetCode/tree/master/0461-hamming-distance) |
 ## Sorting
