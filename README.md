@@ -75,6 +75,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/Arunsai125/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Arunsai125/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Arunsai125/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Arunsai125/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Arunsai125/LeetCode/tree/master/0605-can-place-flowers) |
@@ -148,6 +149,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Arunsai125/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Arunsai125/LeetCode/tree/master/0605-can-place-flowers) |
 | [3738-make-array-non-decreasing](https://github.com/Arunsai125/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Monotonic Stack
@@ -211,6 +213,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Arunsai125/LeetCode/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/Arunsai125/LeetCode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Arunsai125/LeetCode/tree/master/0561-array-partition) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -219,4 +222,8 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [1179-game-play-analysis-i](https://github.com/Arunsai125/LeetCode/tree/master/1179-game-play-analysis-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Arunsai125/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
