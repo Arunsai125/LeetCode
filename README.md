@@ -215,4 +215,8 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Arunsai125/LeetCode/tree/master/0506-relative-ranks) |
+## Database
+|  |
+| ------- |
+| [1179-game-play-analysis-i](https://github.com/Arunsai125/LeetCode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
