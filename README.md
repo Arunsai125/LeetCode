@@ -74,6 +74,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/Arunsai125/LeetCode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Arunsai125/LeetCode/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Arunsai125/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Arunsai125/LeetCode/tree/master/0605-can-place-flowers) |
@@ -208,4 +209,9 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Arunsai125/LeetCode/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/Arunsai125/LeetCode/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Arunsai125/LeetCode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
