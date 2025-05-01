@@ -80,6 +80,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0566-reshape-the-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Arunsai125/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Arunsai125/LeetCode/tree/master/0605-can-place-flowers) |
+| [1319-unique-number-of-occurrences](https://github.com/Arunsai125/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Arunsai125/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arunsai125/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Arunsai125/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -101,6 +102,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0500-keyboard-row](https://github.com/Arunsai125/LeetCode/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Arunsai125/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/Arunsai125/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1319-unique-number-of-occurrences](https://github.com/Arunsai125/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Arunsai125/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Linked List
 |  |
