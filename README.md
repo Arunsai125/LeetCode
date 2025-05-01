@@ -153,6 +153,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Arunsai125/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/Arunsai125/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Arunsai125/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1797-goal-parser-interpretation](https://github.com/Arunsai125/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2128-reverse-prefix-of-word](https://github.com/Arunsai125/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Arunsai125/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Arunsai125/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
