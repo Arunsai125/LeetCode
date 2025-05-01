@@ -263,6 +263,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [1179-game-play-analysis-i](https://github.com/Arunsai125/LeetCode/tree/master/1179-game-play-analysis-i) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/Arunsai125/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 ## Counting Sort
 |  |
 | ------- |
