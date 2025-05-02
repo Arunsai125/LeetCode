@@ -1,10 +1,14 @@
 class Solution {
     public int mostWordsFound(String[] sentences) {
-        int ans=0;
-        for(int i=0;i<sentences.length;i++){
-            int len = sentences[i].split(" ").length;
-            ans = Math.max(ans,len);
+        int maxWords = 0;
+        for (String sen : sentences) {
+            int spaceCnt = 0;
+            for (char ch : sen.toCharArray()) {
+                if (ch == ' ') spaceCnt++;
+            }
+            maxWords = Math.max(maxWords, spaceCnt + 1);
         }
-    return ans;
+        return maxWords;
+
     }
 }
