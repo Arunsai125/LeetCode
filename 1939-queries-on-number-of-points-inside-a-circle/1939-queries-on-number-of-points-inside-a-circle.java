@@ -1,17 +1,18 @@
 class Solution {
-    public int[] countPoints(int[][] points, int[][] queries) {
-        int[] ans = new int[queries.length];
-        for(int i=0;i<queries.length;i++){
-            ans[i] = function(queries[i][0],queries[i][1],queries[i][2], points);
+    public int[] countPoints(int[][] p, int[][] q) {
+        int[] ans = new int[q.length];
+        for(int i = 0; i < q.length; i++){
+            int c = 0;
+            int x = q[i][0];
+            int y = q[i][1];
+            int r = q[i][2] * q[i][2]; // radius squared
+            for(int[] a : p){
+                int dx = a[0] - x;
+                int dy = a[1] - y;
+                if(r >= dx * dx + dy * dy) c++;
+            }
+            ans[i] = c;
         }
-    return ans;
-    }
-    public int function(int x, int y, int r, int[][] points){
-        int res=0;
-        for(int i=0;i<points.length;i++){
-            int dis = (int)Math.pow(Math.abs(x-points[i][0]),2.0) + (int)Math.pow(Math.abs(y-points[i][1]),2.0 );
-            if(dis<=r*r) res++;
-        }
-    return res;
+        return ans;
     }
 }
