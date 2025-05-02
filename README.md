@@ -88,6 +88,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1505-create-target-array-in-the-given-order](https://github.com/Arunsai125/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Arunsai125/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1839-decode-xored-array](https://github.com/Arunsai125/LeetCode/tree/master/1839-decode-xored-array) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Arunsai125/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2058-concatenation-of-array](https://github.com/Arunsai125/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Arunsai125/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Arunsai125/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -134,6 +135,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arunsai125/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arunsai125/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/Arunsai125/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Arunsai125/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2556-convert-the-temperature](https://github.com/Arunsai125/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Arunsai125/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Recursion
@@ -283,4 +285,8 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0383-ransom-note](https://github.com/Arunsai125/LeetCode/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/Arunsai125/LeetCode/tree/master/0561-array-partition) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Arunsai125/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Geometry
+|  |
+| ------- |
+| [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Arunsai125/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
