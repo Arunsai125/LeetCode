@@ -219,6 +219,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Arunsai125/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -295,8 +296,10 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Arunsai125/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Arunsai125/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
