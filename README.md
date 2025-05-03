@@ -161,6 +161,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0392-is-subsequence](https://github.com/Arunsai125/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Arunsai125/LeetCode/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/Arunsai125/LeetCode/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/Arunsai125/LeetCode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Arunsai125/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arunsai125/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Arunsai125/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
