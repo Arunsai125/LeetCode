@@ -125,6 +125,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arunsai125/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/Arunsai125/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arunsai125/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
@@ -148,6 +149,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0002-add-two-numbers) |
+| [0203-remove-linked-list-elements](https://github.com/Arunsai125/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## String
 |  |
 | ------- |
