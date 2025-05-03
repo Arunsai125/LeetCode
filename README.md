@@ -84,6 +84,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0682-baseball-game](https://github.com/Arunsai125/LeetCode/tree/master/0682-baseball-game) |
 | [0822-unique-morse-code-words](https://github.com/Arunsai125/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/Arunsai125/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arunsai125/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1306-minimum-absolute-difference](https://github.com/Arunsai125/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Arunsai125/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Arunsai125/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -197,6 +198,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0561-array-partition](https://github.com/Arunsai125/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Arunsai125/LeetCode/tree/master/0605-can-place-flowers) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arunsai125/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Arunsai125/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Arunsai125/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3738-make-array-non-decreasing](https://github.com/Arunsai125/LeetCode/tree/master/3738-make-array-non-decreasing) |
