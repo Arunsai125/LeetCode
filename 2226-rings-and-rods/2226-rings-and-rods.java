@@ -1,19 +1,29 @@
 class Solution {
     public int countPoints(String rings) {
-        int ans=0;
-       Map<Integer,Set<Character>> map = new HashMap<>();
-       for(int i=0;i<rings.length()-1;i+=2){
-            int rodNumber = rings.charAt(i+1) -'0';
-            char color = rings.charAt(i);
-            if(!map.containsKey(rodNumber)){
-                Set<Character> list = new HashSet<>();
-                map.put(rodNumber,list);
+        int r[] = new int[10];
+        int g[] = new int[10];
+        int b[] = new int[10];
+        int n = rings.length();
+        for(int i = 0; i<n; i+=2){
+            int a = rings.charAt(i+1)-'0';
+            if(rings.charAt(i)=='R'){
+                r[a]++;
             }
-            map.get(rodNumber).add(color);
-       }
-       for(int key : map.keySet()){
-            if(map.get(key).size()==3) ans++;
-       }
-    return ans;
+            else if(rings.charAt(i)=='G'){
+                g[a]++;
+            }
+            else if(rings.charAt(i)=='B'){
+                b[a]++;
+            }
+            
+        }
+        int cnt = 0;
+        for(int i = 0; i<10; i++){
+            if(r[i]>0 && g[i]>0 && b[i]>0){
+                cnt++;
+            }
+        }
+        return cnt;
+        
     }
 }
