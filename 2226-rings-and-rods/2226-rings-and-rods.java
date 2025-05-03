@@ -3,7 +3,7 @@ class Solution {
         int ans=0;
        Map<Integer,Set<Character>> map = new HashMap<>();
        for(int i=0;i<rings.length()-1;i+=2){
-            int rodNumber = Integer.valueOf(rings.charAt(i+1));
+            int rodNumber = rings.charAt(i+1) -'0';
             char color = rings.charAt(i);
             if(!map.containsKey(rodNumber)){
                 Set<Character> list = new HashSet<>();
