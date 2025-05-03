@@ -190,6 +190,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Arunsai125/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/Arunsai125/LeetCode/tree/master/0682-baseball-game) |
 | [2128-reverse-prefix-of-word](https://github.com/Arunsai125/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [3738-make-array-non-decreasing](https://github.com/Arunsai125/LeetCode/tree/master/3738-make-array-non-decreasing) |
@@ -245,6 +246,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Arunsai125/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Arunsai125/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
@@ -316,4 +318,8 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Arunsai125/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Arunsai125/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
