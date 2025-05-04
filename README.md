@@ -97,6 +97,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Arunsai125/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1635-number-of-good-pairs](https://github.com/Arunsai125/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Arunsai125/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1839-decode-xored-array](https://github.com/Arunsai125/LeetCode/tree/master/1839-decode-xored-array) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Arunsai125/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -130,6 +131,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0822-unique-morse-code-words](https://github.com/Arunsai125/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arunsai125/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/Arunsai125/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1635-number-of-good-pairs](https://github.com/Arunsai125/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2226-rings-and-rods](https://github.com/Arunsai125/LeetCode/tree/master/2226-rings-and-rods) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Arunsai125/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arunsai125/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -161,6 +163,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Arunsai125/LeetCode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Arunsai125/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/Arunsai125/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Arunsai125/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Arunsai125/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2556-convert-the-temperature](https://github.com/Arunsai125/LeetCode/tree/master/2556-convert-the-temperature) |
@@ -349,6 +352,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1137-height-checker](https://github.com/Arunsai125/LeetCode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arunsai125/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Arunsai125/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1635-number-of-good-pairs](https://github.com/Arunsai125/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Geometry
 |  |
 | ------- |
