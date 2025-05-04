@@ -93,6 +93,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1319-unique-number-of-occurrences](https://github.com/Arunsai125/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Arunsai125/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arunsai125/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Arunsai125/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Arunsai125/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1839-decode-xored-array](https://github.com/Arunsai125/LeetCode/tree/master/1839-decode-xored-array) |
@@ -154,6 +155,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arunsai125/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arunsai125/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arunsai125/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Arunsai125/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Arunsai125/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Arunsai125/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
