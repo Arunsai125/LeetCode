@@ -82,6 +82,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0605-can-place-flowers](https://github.com/Arunsai125/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Arunsai125/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Arunsai125/LeetCode/tree/master/0682-baseball-game) |
+| [0797-rabbits-in-forest](https://github.com/Arunsai125/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/Arunsai125/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/Arunsai125/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arunsai125/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -121,6 +122,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Arunsai125/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Arunsai125/LeetCode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Arunsai125/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0797-rabbits-in-forest](https://github.com/Arunsai125/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/Arunsai125/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arunsai125/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/Arunsai125/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -145,6 +147,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0202-happy-number](https://github.com/Arunsai125/LeetCode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Arunsai125/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Arunsai125/LeetCode/tree/master/0412-fizz-buzz) |
+| [0797-rabbits-in-forest](https://github.com/Arunsai125/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Arunsai125/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Arunsai125/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arunsai125/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -218,6 +221,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0561-array-partition](https://github.com/Arunsai125/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Arunsai125/LeetCode/tree/master/0605-can-place-flowers) |
+| [0797-rabbits-in-forest](https://github.com/Arunsai125/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arunsai125/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Arunsai125/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Arunsai125/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
