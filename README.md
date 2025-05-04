@@ -158,6 +158,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arunsai125/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arunsai125/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Arunsai125/LeetCode/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/Arunsai125/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Arunsai125/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -309,6 +310,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0461-hamming-distance](https://github.com/Arunsai125/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Arunsai125/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Arunsai125/LeetCode/tree/master/0645-set-mismatch) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Arunsai125/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Arunsai125/LeetCode/tree/master/1839-decode-xored-array) |
 ## Sorting
