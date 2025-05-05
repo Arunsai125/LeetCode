@@ -154,6 +154,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0012-integer-to-roman](https://github.com/Arunsai125/LeetCode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Arunsai125/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Arunsai125/LeetCode/tree/master/0202-happy-number) |
+| [0342-power-of-four](https://github.com/Arunsai125/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Arunsai125/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Arunsai125/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Arunsai125/LeetCode/tree/master/0415-add-strings) |
@@ -180,6 +181,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Arunsai125/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0342-power-of-four](https://github.com/Arunsai125/LeetCode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -322,6 +324,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Arunsai125/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Arunsai125/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Arunsai125/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/Arunsai125/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Arunsai125/LeetCode/tree/master/0476-number-complement) |
