@@ -92,6 +92,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arunsai125/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Arunsai125/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1287-distance-between-bus-stops](https://github.com/Arunsai125/LeetCode/tree/master/1287-distance-between-bus-stops) |
+| [1293-three-consecutive-odds](https://github.com/Arunsai125/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/Arunsai125/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Arunsai125/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Arunsai125/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
