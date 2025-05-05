@@ -98,6 +98,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Arunsai125/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1635-number-of-good-pairs](https://github.com/Arunsai125/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/Arunsai125/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Arunsai125/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1839-decode-xored-array](https://github.com/Arunsai125/LeetCode/tree/master/1839-decode-xored-array) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Arunsai125/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
@@ -284,6 +285,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Arunsai125/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Queue
 |  |
 | ------- |
