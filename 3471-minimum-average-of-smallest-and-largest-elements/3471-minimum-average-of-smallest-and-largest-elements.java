@@ -1,19 +1,12 @@
 class Solution {
     public double minimumAverage(int[] nums) {
-        PriorityQueue<Double> pq = new PriorityQueue<>();
-        List<Integer> list = new ArrayList<>();
-        for(int i : nums) list.add(i);
-        Collections.sort(list);
-        int target = nums.length/2;
-        while(target!=0){
-            target--;
-            int smallest = list.get(0);
-            int largest = list.get(list.size()-1);
-            double avg = (smallest+largest)/2.0;
-            list.remove(Integer.valueOf(smallest));
-            list.remove(Integer.valueOf(largest));
-            pq.add(avg);
-        }
-    return (double)pq.poll();
+        Arrays.sort(nums);
+        int n=nums.length;
+       double min = Double.MAX_VALUE;
+       for(int i=0;i<n/2;i++){
+         double sum= (nums[i]+nums[n-1-i])/2.0;
+         min=Math.min(sum,min);
+       }
+    return min;
     }
 }
