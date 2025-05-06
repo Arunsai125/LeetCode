@@ -1,19 +1,15 @@
 class Solution {
     public int[] numberGame(int[] nums) {
-        List<Integer> list = new ArrayList<>();
-        for(int i : nums) list.add(i);
-        Collections.sort(list);
-        int[] ans = new int[nums.length];
-        int c=nums.length;
-        int i=0;
-        int ptr=0;
-        while(c!=0){
-            c-=2;
-            int firstSmall = list.get(ptr++);
-            int secondSmall = list.get(ptr++);
-            ans[i++] = secondSmall;
-            ans[i++] = firstSmall;
-        }
-    return ans;
+      Arrays.sort(nums);
+      int i=0;
+      int j=1;
+      while(i<nums.length && j<=nums.length){
+        int temp=nums[i];
+        nums[i]=nums[j];
+        nums[j]=temp;
+        i+=2;
+        j+=2;
+      }
+      return nums;  
     }
 }
