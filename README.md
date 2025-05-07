@@ -123,6 +123,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Arunsai125/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Arunsai125/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Arunsai125/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [2777-find-the-distinct-difference-array](https://github.com/Arunsai125/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Arunsai125/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Arunsai125/LeetCode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Arunsai125/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -163,6 +164,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Arunsai125/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arunsai125/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2226-rings-and-rods](https://github.com/Arunsai125/LeetCode/tree/master/2226-rings-and-rods) |
+| [2777-find-the-distinct-difference-array](https://github.com/Arunsai125/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Arunsai125/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arunsai125/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arunsai125/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
