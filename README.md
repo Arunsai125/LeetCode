@@ -117,6 +117,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arunsai125/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arunsai125/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Arunsai125/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Arunsai125/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Arunsai125/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Arunsai125/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -352,6 +353,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Arunsai125/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Arunsai125/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunsai125/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Queue
 |  |
