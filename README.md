@@ -192,6 +192,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Arunsai125/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Arunsai125/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Arunsai125/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2491-smallest-even-multiple](https://github.com/Arunsai125/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Arunsai125/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/Arunsai125/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Arunsai125/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -465,4 +466,8 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Arunsai125/LeetCode/tree/master/1916-find-center-of-star-graph) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/Arunsai125/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
