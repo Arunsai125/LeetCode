@@ -219,6 +219,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Arunsai125/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Arunsai125/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arunsai125/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arunsai125/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
@@ -261,6 +262,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2226-rings-and-rods](https://github.com/Arunsai125/LeetCode/tree/master/2226-rings-and-rods) |
 | [2373-apply-discount-to-prices](https://github.com/Arunsai125/LeetCode/tree/master/2373-apply-discount-to-prices) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Arunsai125/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Arunsai125/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Sliding Window
 |  |
@@ -393,6 +395,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0392-is-subsequence](https://github.com/Arunsai125/LeetCode/tree/master/0392-is-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/Arunsai125/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Arunsai125/LeetCode/tree/master/0868-push-dominoes) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Memoization
 |  |
 | ------- |
@@ -522,4 +525,8 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunsai125/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Arunsai125/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
