@@ -128,6 +128,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2737-row-with-maximum-ones](https://github.com/Arunsai125/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2777-find-the-distinct-difference-array](https://github.com/Arunsai125/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Arunsai125/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Arunsai125/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3226-minimum-number-game](https://github.com/Arunsai125/LeetCode/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Arunsai125/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arunsai125/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -306,6 +307,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1448-maximum-69-number](https://github.com/Arunsai125/LeetCode/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Arunsai125/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arunsai125/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Arunsai125/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3738-make-array-non-decreasing](https://github.com/Arunsai125/LeetCode/tree/master/3738-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
