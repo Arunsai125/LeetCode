@@ -350,6 +350,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
+| [0744-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunsai125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
@@ -359,6 +360,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
+| [0744-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1876-map-of-highest-peak](https://github.com/Arunsai125/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -441,6 +443,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Arunsai125/LeetCode/tree/master/0506-relative-ranks) |
+| [0744-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0744-network-delay-time) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [3226-minimum-number-game](https://github.com/Arunsai125/LeetCode/tree/master/3226-minimum-number-game) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunsai125/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -514,6 +517,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0744-network-delay-time) |
 | [1916-find-center-of-star-graph](https://github.com/Arunsai125/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Arunsai125/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunsai125/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -529,6 +533,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0744-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Arunsai125/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunsai125/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Arunsai125/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
