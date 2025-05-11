@@ -67,6 +67,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0001-two-sum](https://github.com/Arunsai125/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/Arunsai125/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Arunsai125/LeetCode/tree/master/0027-remove-element) |
 | [0119-pascals-triangle-ii](https://github.com/Arunsai125/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
@@ -334,6 +335,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Arunsai125/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Arunsai125/LeetCode/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/Arunsai125/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -423,6 +425,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Arunsai125/LeetCode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunsai125/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
