@@ -29,6 +29,7 @@ class Solution {
             Pair curr = pq.poll();
             int currDis = curr.getDis();
             int currNode = curr.getNode();
+            if(currDis > distance[currNode]) continue;
                 for(Pair t : map.get(currNode)){
                     int node = t.getNode();
                     int dis = t.getDis();
