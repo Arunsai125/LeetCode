@@ -14,18 +14,12 @@ class Solution
                 T[i][next] = (T[i][next] + 1) % MOD;
             }
         }
-
-        // Step 2: Count initial frequencies
         long[] freq = new long[n];
         for (char c : s.toCharArray()) 
         {
             freq[c - 'a']++;
         }
-
-        // Step 3: Raise T to power t
         long[][] T_pow = matrixPower(T, t);
-
-        // Step 4: Multiply T^t with initial freq vector
         long[] result = new long[n];
         for (int i = 0; i < n; i++) 
         {
