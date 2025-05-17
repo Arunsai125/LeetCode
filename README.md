@@ -69,6 +69,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0004-median-of-two-sorted-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/Arunsai125/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Arunsai125/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Arunsai125/LeetCode/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/Arunsai125/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arunsai125/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -350,6 +351,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0016-3sum-closest](https://github.com/Arunsai125/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Arunsai125/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Arunsai125/LeetCode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/Arunsai125/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunsai125/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -444,6 +446,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Arunsai125/LeetCode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Arunsai125/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunsai125/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
