@@ -419,6 +419,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0806-domino-and-tromino-tiling](https://github.com/Arunsai125/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Arunsai125/LeetCode/tree/master/0868-push-dominoes) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunsai125/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Arunsai125/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Arunsai125/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Arunsai125/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arunsai125/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
