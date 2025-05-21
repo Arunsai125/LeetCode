@@ -88,6 +88,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0605-can-place-flowers](https://github.com/Arunsai125/LeetCode/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Arunsai125/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Arunsai125/LeetCode/tree/master/0682-baseball-game) |
+| [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Arunsai125/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/Arunsai125/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/Arunsai125/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -306,6 +307,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunsai125/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Arunsai125/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Arunsai125/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arunsai125/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Arunsai125/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -380,6 +382,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
 | [0744-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunsai125/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunsai125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -392,6 +395,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
 | [0744-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Arunsai125/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -404,6 +408,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0289-game-of-life](https://github.com/Arunsai125/LeetCode/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0898-transpose-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0898-transpose-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Arunsai125/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -488,6 +493,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0506-relative-ranks](https://github.com/Arunsai125/LeetCode/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [3226-minimum-number-game](https://github.com/Arunsai125/LeetCode/tree/master/3226-minimum-number-game) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunsai125/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -606,6 +612,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunsai125/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Arunsai125/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
