@@ -1,13 +1,13 @@
 class Solution {
-    public long distributeCandies(int n, int m) {
-        long res = ((long)n + 2) * (n + 1) / 2;
-        for (int i = 1; i <= 3; i++) {
-            long rem = n - (long)i * (m + 1);
-            if (rem < 0) break;
-            long val = (rem + 2) * (rem + 1) / 2;
-            long c = (i < 3 ? 3 : 1);
-            res += (i % 2 != 0 ? -c * val : c * val);
-        }
-        return res;
+    public long distributeCandies(int n, int limit) {
+        return combCount(n)
+             - 3 * combCount(n - (limit + 1))
+             + 3 * combCount(n - 2 * (limit + 1))
+             - combCount(n - 3 * (limit + 1));
+    }
+
+    private long combCount(long sum) {
+        if (sum < 0) return 0;
+        return (sum + 2) * (sum + 1) / 2;
     }
 }
