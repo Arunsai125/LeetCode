@@ -72,6 +72,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0073-set-matrix-zeroes](https://github.com/Arunsai125/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Arunsai125/LeetCode/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/Arunsai125/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/Arunsai125/LeetCode/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arunsai125/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0289-game-of-life](https://github.com/Arunsai125/LeetCode/tree/master/0289-game-of-life) |
@@ -333,6 +334,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Arunsai125/LeetCode/tree/master/0135-candy) |
 | [0561-array-partition](https://github.com/Arunsai125/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Arunsai125/LeetCode/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/Arunsai125/LeetCode/tree/master/0797-rabbits-in-forest) |
