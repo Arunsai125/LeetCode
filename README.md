@@ -409,6 +409,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunsai125/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunsai125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1300-critical-connections-in-a-network](https://github.com/Arunsai125/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Arunsai125/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Arunsai125/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Arunsai125/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -622,6 +623,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0744-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0744-network-delay-time) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunsai125/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1300-critical-connections-in-a-network](https://github.com/Arunsai125/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Arunsai125/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Arunsai125/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunsai125/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -670,4 +672,8 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunsai125/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Arunsai125/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Arunsai125/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Arunsai125/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
