@@ -74,6 +74,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0075-sort-colors](https://github.com/Arunsai125/LeetCode/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/Arunsai125/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/Arunsai125/LeetCode/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/Arunsai125/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arunsai125/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0289-game-of-life](https://github.com/Arunsai125/LeetCode/tree/master/0289-game-of-life) |
@@ -221,6 +222,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0007-reverse-integer](https://github.com/Arunsai125/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Arunsai125/LeetCode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/Arunsai125/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Arunsai125/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arunsai125/LeetCode/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Arunsai125/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Arunsai125/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -401,6 +403,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0027-remove-element](https://github.com/Arunsai125/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Arunsai125/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Arunsai125/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Arunsai125/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arunsai125/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunsai125/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
