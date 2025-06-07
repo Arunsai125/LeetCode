@@ -74,6 +74,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0075-sort-colors](https://github.com/Arunsai125/LeetCode/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/Arunsai125/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/Arunsai125/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Arunsai125/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Arunsai125/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arunsai125/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -518,6 +519,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Arunsai125/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Arunsai125/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Arunsai125/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Arunsai125/LeetCode/tree/master/0342-power-of-four) |
