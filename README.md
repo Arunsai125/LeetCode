@@ -269,6 +269,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arunsai125/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Arunsai125/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Arunsai125/LeetCode/tree/master/0012-integer-to-roman) |
+| [0125-valid-palindrome](https://github.com/Arunsai125/LeetCode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/Arunsai125/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arunsai125/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Arunsai125/LeetCode/tree/master/0389-find-the-difference) |
@@ -390,6 +391,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0016-3sum-closest](https://github.com/Arunsai125/LeetCode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/Arunsai125/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Arunsai125/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Arunsai125/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Arunsai125/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunsai125/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
