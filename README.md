@@ -125,6 +125,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1833-find-the-highest-altitude](https://github.com/Arunsai125/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/Arunsai125/LeetCode/tree/master/1839-decode-xored-array) |
 | [1876-map-of-highest-peak](https://github.com/Arunsai125/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arunsai125/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Arunsai125/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2048-build-array-from-permutation](https://github.com/Arunsai125/LeetCode/tree/master/2048-build-array-from-permutation) |
