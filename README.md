@@ -86,6 +86,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0189-rotate-array](https://github.com/Arunsai125/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arunsai125/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Arunsai125/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Arunsai125/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arunsai125/LeetCode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Arunsai125/LeetCode/tree/master/0289-game-of-life) |
@@ -187,6 +188,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0202-happy-number](https://github.com/Arunsai125/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arunsai125/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Arunsai125/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Arunsai125/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunsai125/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -561,6 +563,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0075-sort-colors](https://github.com/Arunsai125/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Arunsai125/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Arunsai125/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Arunsai125/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunsai125/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -606,6 +609,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arunsai125/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Arunsai125/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Arunsai125/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arunsai125/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Arunsai125/LeetCode/tree/master/0561-array-partition) |
