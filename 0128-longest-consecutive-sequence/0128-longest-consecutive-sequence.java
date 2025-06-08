@@ -6,8 +6,8 @@ class Solution {
         int ans=1;
         int c=0;
         for(int i : nums){
-            if(set.contains(i-1) || !set.contains(i+1)) continue;
-            else{
+            if(!set.contains(i-1))
+            {
                 c=1;
                 int temp = i;
                 while(set.contains(temp+1)){
