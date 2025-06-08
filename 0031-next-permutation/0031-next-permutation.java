@@ -8,15 +8,13 @@ class Solution {
                 break;
             }
         }
-        if(bp==-1) reverse(nums, 0, n-1);
+        if(bp==-1) reverse(nums,0,n-1);
         else{
-            int nextSmall = -1;
             for(int i=n-1;i>bp;i--){
                 if(nums[i]>nums[bp]){
-                    nextSmall = i;
                     int temp = nums[bp];
-                    nums[bp] = nums[nextSmall];
-                    nums[nextSmall] = temp;
+                    nums[bp]=nums[i];
+                    nums[i]=temp;
                     break;
                 }
             }
@@ -25,9 +23,9 @@ class Solution {
     }
     public void reverse(int[] nums, int l, int r){
         while(l<r){
-            int temp = nums[r];
-            nums[r] = nums[l];
-            nums[l] = temp;
+            int temp = nums[l];
+            nums[l] = nums[r];
+            nums[r] = temp;
             l++;
             r--;
         }
