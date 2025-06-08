@@ -73,6 +73,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0031-next-permutation](https://github.com/Arunsai125/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Arunsai125/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Arunsai125/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Arunsai125/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Arunsai125/LeetCode/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/Arunsai125/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -400,6 +401,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Arunsai125/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Arunsai125/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Arunsai125/LeetCode/tree/master/0415-add-strings) |
@@ -476,6 +478,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Arunsai125/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Arunsai125/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/Arunsai125/LeetCode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Arunsai125/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
