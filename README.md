@@ -75,6 +75,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0119-pascals-triangle-ii](https://github.com/Arunsai125/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/Arunsai125/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Arunsai125/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Arunsai125/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arunsai125/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arunsai125/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -173,6 +174,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arunsai125/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Arunsai125/LeetCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Arunsai125/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Arunsai125/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Arunsai125/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arunsai125/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -351,6 +353,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Arunsai125/LeetCode/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -536,6 +539,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0016-3sum-closest](https://github.com/Arunsai125/LeetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Arunsai125/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Arunsai125/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arunsai125/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -581,6 +585,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Arunsai125/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Arunsai125/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arunsai125/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Arunsai125/LeetCode/tree/master/0561-array-partition) |
