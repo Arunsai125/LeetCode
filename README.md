@@ -433,6 +433,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
 | [0721-accounts-merge](https://github.com/Arunsai125/LeetCode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0744-network-delay-time) |
@@ -721,4 +722,8 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Arunsai125/LeetCode/tree/master/1300-critical-connections-in-a-network) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
