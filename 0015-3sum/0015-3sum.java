@@ -13,7 +13,7 @@ class Solution {
                     j++;
                     while(j<k && nums[j]==nums[j-1]) j++;
                     k--;
-                    while(k>0 && nums[k]==nums[k+1]) k--;
+                    while(k>j && nums[k]==nums[k+1]) k--;
                 }
                 else if(sum < 0){
                     j++;
