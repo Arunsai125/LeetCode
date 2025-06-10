@@ -104,6 +104,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arunsai125/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Arunsai125/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Arunsai125/LeetCode/tree/master/0493-reverse-pairs) |
 | [0500-keyboard-row](https://github.com/Arunsai125/LeetCode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Arunsai125/LeetCode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/Arunsai125/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -364,6 +365,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0367-valid-perfect-square](https://github.com/Arunsai125/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Arunsai125/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0493-reverse-pairs](https://github.com/Arunsai125/LeetCode/tree/master/0493-reverse-pairs) |
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -375,6 +377,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0004-median-of-two-sorted-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Arunsai125/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Arunsai125/LeetCode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Arunsai125/LeetCode/tree/master/0493-reverse-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -763,4 +766,20 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Arunsai125/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Arunsai125/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Arunsai125/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Arunsai125/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Arunsai125/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
