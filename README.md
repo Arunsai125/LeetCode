@@ -91,6 +91,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0135-candy](https://github.com/Arunsai125/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Arunsai125/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Arunsai125/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arunsai125/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Arunsai125/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arunsai125/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
@@ -368,6 +369,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arunsai125/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Arunsai125/LeetCode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arunsai125/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arunsai125/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Arunsai125/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunsai125/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
