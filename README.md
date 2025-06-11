@@ -147,6 +147,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1505-create-target-array-in-the-given-order](https://github.com/Arunsai125/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Arunsai125/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/Arunsai125/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arunsai125/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/Arunsai125/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/Arunsai125/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Arunsai125/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -388,6 +389,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Arunsai125/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arunsai125/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arunsai125/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Arunsai125/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
