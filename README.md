@@ -130,6 +130,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0898-transpose-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Arunsai125/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arunsai125/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Arunsai125/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Arunsai125/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/Arunsai125/LeetCode/tree/master/1137-height-checker) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arunsai125/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -389,6 +390,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0792-binary-search](https://github.com/Arunsai125/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Arunsai125/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Arunsai125/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Arunsai125/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Arunsai125/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
