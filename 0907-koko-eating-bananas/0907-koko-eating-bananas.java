@@ -4,7 +4,7 @@ class Solution {
         long end = 0;
         long ans=-1;
         for(int i : piles){
-            end += (long)i;
+            end = (long) Math.max(i,end);
         }
         while(start<=end){
             long mid = start + (end-start)/2;
