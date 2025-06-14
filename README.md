@@ -294,6 +294,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2556-convert-the-temperature](https://github.com/Arunsai125/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/Arunsai125/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Arunsai125/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Arunsai125/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Arunsai125/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/Arunsai125/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Arunsai125/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -434,6 +435,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arunsai125/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Arunsai125/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arunsai125/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Arunsai125/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arunsai125/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arunsai125/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Arunsai125/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
