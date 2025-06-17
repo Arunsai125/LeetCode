@@ -1,18 +1,12 @@
 class Solution {
     public int maximumDifference(int[] nums) {
-        Stack<int[]> stack = new Stack<>(); 
-        int diff = -1;
-
-        for (int i = 0; i < nums.length; i++) {
-            if (stack.isEmpty() || nums[i] < stack.peek()[0]) {
-                stack.push(new int[]{nums[i], i});
-            }
-
-            if (!stack.isEmpty() && stack.peek()[1] < i && nums[i] > stack.peek()[0]) {
-                diff = Math.max(diff, nums[i] - stack.peek()[0]);
-            }
+        int ans = -1;
+        int min = Integer.MAX_VALUE;
+        for(int i : nums){
+            min = Math.min(min, i);
+            ans = Math.max(ans, i-min);
         }
-
-        return diff;
+        if(ans==0) return -1;
+    return ans;
     }
 }
