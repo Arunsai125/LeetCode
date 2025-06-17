@@ -306,6 +306,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunsai125/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arunsai125/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Arunsai125/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arunsai125/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Recursion
 |  |
@@ -775,6 +776,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/Arunsai125/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Arunsai125/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Topological Sort
 |  |
 | ------- |
