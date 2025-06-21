@@ -1,23 +1,21 @@
 class Solution {
     public int countSubstrings(String s) {
-        int ans = s.length();
-        for(int i=0;i<s.length()-1;i++){
-            for(int j=i+1;j<s.length();j++){
-                if(isPalindromic(s.substring(i,j+1))) ans++;
-            }
+        int ans=0;
+        for(int i=0;i<s.length();i++){
+            int oddCount = findCount(s,i,i);
+            int evenCount = findCount(s,i,i+1);
+            ans += oddCount;
+            ans += evenCount;
         }
     return ans;
     }
-    public boolean isPalindromic(String str){
-        int s=0;
-        int e=str.length()-1;
-        while(s<=e){
-            if(str.charAt(s)!=str.charAt(e)) return false;
-            else{
-                s++;
-                e--;
-            }
+    public int findCount(String str, int left, int right){
+        int count=0;
+        while(left>=0 && right<str.length() && str.charAt(left)==str.charAt(right)){
+            count++;
+            left--;
+            right++;
         }
-    return true;
+    return count;
     }
 }
