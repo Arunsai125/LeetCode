@@ -1,6 +1,6 @@
 class Solution {
     public List<Integer> findKDistantIndices(int[] nums, int key, int k) {
-        Set<Integer> set = new HashSet<>();
+        Set<Integer> set = new TreeSet<>();
         for(int i=0;i<nums.length;i++){
             if(nums[i]==key){
                 int start = Math.max(0, i-k);
@@ -9,7 +9,6 @@ class Solution {
             }
         }
         List<Integer> ans = new ArrayList<>(set);
-        Collections.sort(ans);
     return ans;
     }
 }
