@@ -361,6 +361,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Arunsai125/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Arunsai125/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/Arunsai125/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Arunsai125/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Arunsai125/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/Arunsai125/LeetCode/tree/master/2226-rings-and-rods) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Arunsai125/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -452,6 +453,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1448-maximum-69-number](https://github.com/Arunsai125/LeetCode/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Arunsai125/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Arunsai125/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arunsai125/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Arunsai125/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Arunsai125/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -708,6 +710,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1635-number-of-good-pairs](https://github.com/Arunsai125/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arunsai125/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arunsai125/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Arunsai125/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2427-first-letter-to-appear-twice](https://github.com/Arunsai125/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arunsai125/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunsai125/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -746,6 +749,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Arunsai125/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Arunsai125/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunsai125/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Arunsai125/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -858,4 +862,8 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Arunsai125/LeetCode/tree/master/0493-reverse-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Arunsai125/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
