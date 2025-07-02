@@ -338,6 +338,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0006-zigzag-conversion](https://github.com/Arunsai125/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Arunsai125/LeetCode/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/Arunsai125/LeetCode/tree/master/0125-valid-palindrome) |
+| [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arunsai125/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Arunsai125/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arunsai125/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -536,6 +537,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
 | [0721-accounts-merge](https://github.com/Arunsai125/LeetCode/tree/master/0721-accounts-merge) |
@@ -744,6 +746,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunsai125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
@@ -754,6 +757,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunsai125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
@@ -886,5 +890,6 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunsai125/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
