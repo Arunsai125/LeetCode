@@ -319,6 +319,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3321-type-of-triangle](https://github.com/Arunsai125/LeetCode/tree/master/3321-type-of-triangle) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Arunsai125/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arunsai125/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunsai125/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunsai125/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arunsai125/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -332,6 +333,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0203-remove-linked-list-elements](https://github.com/Arunsai125/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/Arunsai125/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Arunsai125/LeetCode/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunsai125/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -502,6 +504,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Arunsai125/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Arunsai125/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3226-minimum-number-game](https://github.com/Arunsai125/LeetCode/tree/master/3226-minimum-number-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunsai125/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Arunsai125/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Two Pointers
 |  |
@@ -656,6 +659,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1839-decode-xored-array](https://github.com/Arunsai125/LeetCode/tree/master/1839-decode-xored-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/Arunsai125/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Arunsai125/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunsai125/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
