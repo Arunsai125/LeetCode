@@ -211,6 +211,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Arunsai125/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Arunsai125/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3738-make-array-non-decreasing](https://github.com/Arunsai125/LeetCode/tree/master/3738-make-array-non-decreasing) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Arunsai125/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Arunsai125/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arunsai125/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
@@ -416,6 +417,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arunsai125/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Arunsai125/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Arunsai125/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Arunsai125/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Search
 |  |
@@ -499,6 +501,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arunsai125/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunsai125/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3738-make-array-non-decreasing](https://github.com/Arunsai125/LeetCode/tree/master/3738-make-array-non-decreasing) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Arunsai125/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Monotonic Stack
 |  |
 | ------- |
