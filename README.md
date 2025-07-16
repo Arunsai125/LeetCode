@@ -203,6 +203,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arunsai125/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Arunsai125/LeetCode/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Arunsai125/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arunsai125/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arunsai125/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Arunsai125/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arunsai125/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -662,6 +663,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arunsai125/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Arunsai125/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Arunsai125/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arunsai125/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arunsai125/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunsai125/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arunsai125/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
