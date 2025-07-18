@@ -85,6 +85,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0057-insert-interval](https://github.com/Arunsai125/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Arunsai125/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Arunsai125/LeetCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Arunsai125/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arunsai125/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arunsai125/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Arunsai125/LeetCode/tree/master/0118-pascals-triangle) |
@@ -357,6 +358,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arunsai125/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Arunsai125/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Arunsai125/LeetCode/tree/master/0012-integer-to-roman) |
+| [0079-word-search](https://github.com/Arunsai125/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Arunsai125/LeetCode/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arunsai125/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -574,6 +576,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Arunsai125/LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
@@ -614,6 +617,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0048-rotate-image](https://github.com/Arunsai125/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Arunsai125/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Arunsai125/LeetCode/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Arunsai125/LeetCode/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Arunsai125/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -936,6 +940,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Arunsai125/LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunsai125/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
