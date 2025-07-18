@@ -6,23 +6,20 @@ class Solution {
             slow = slow.next;
             fast = fast.next.next;
         }
+        ListNode temp = slow;
         Stack<ListNode> st = new Stack<>();
-        ListNode temp=slow;
-        while(temp!=null){
-            st.add(temp);
-            temp = temp.next;
-        }
-        ListNode curr = head;
+        while(temp!=null) { st.add(temp); temp = temp.next; }
+        temp=head;
         while(!st.isEmpty()){
-           ListNode top = st.pop();
-           ListNode next = curr.next;
-           if(top==curr || top==curr.next){
+            ListNode top = st.pop();
+            ListNode next = temp.next;
+            if(top==temp || top == temp.next){
                 top.next=null;
                 break;
-           }
-           curr.next = top;
-           top.next=next;
-           curr=next;
+            }
+            temp.next=top;
+            top.next=next;
+            temp=next;
         }
     }
 }
