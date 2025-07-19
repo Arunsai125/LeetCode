@@ -149,6 +149,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1306-minimum-absolute-difference](https://github.com/Arunsai125/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Arunsai125/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Arunsai125/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arunsai125/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Arunsai125/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Arunsai125/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arunsai125/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -388,6 +389,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1205-defanging-an-ip-address](https://github.com/Arunsai125/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/Arunsai125/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Arunsai125/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arunsai125/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Arunsai125/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arunsai125/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1666-make-the-string-great](https://github.com/Arunsai125/LeetCode/tree/master/1666-make-the-string-great) |
@@ -593,6 +595,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunsai125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1300-critical-connections-in-a-network](https://github.com/Arunsai125/LeetCode/tree/master/1300-critical-connections-in-a-network) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arunsai125/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Arunsai125/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Arunsai125/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Arunsai125/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -925,6 +928,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Arunsai125/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arunsai125/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Indexed Tree
 |  |
 | ------- |
