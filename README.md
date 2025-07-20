@@ -188,6 +188,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunsai125/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Arunsai125/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2249-count-the-hidden-sequences](https://github.com/Arunsai125/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Arunsai125/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Arunsai125/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arunsai125/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -270,6 +271,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunsai125/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2226-rings-and-rods](https://github.com/Arunsai125/LeetCode/tree/master/2226-rings-and-rods) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Arunsai125/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2427-first-letter-to-appear-twice](https://github.com/Arunsai125/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arunsai125/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2777-find-the-distinct-difference-array](https://github.com/Arunsai125/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
@@ -542,6 +544,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2048-build-array-from-permutation](https://github.com/Arunsai125/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Arunsai125/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Arunsai125/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Arunsai125/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Arunsai125/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [3226-minimum-number-game](https://github.com/Arunsai125/LeetCode/tree/master/3226-minimum-number-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunsai125/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -745,6 +748,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunsai125/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Arunsai125/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Arunsai125/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arunsai125/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunsai125/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Arunsai125/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
