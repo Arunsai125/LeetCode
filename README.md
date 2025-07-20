@@ -301,6 +301,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0189-rotate-array](https://github.com/Arunsai125/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arunsai125/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Arunsai125/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Arunsai125/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arunsai125/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Arunsai125/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Arunsai125/LeetCode/tree/master/0412-fizz-buzz) |
@@ -351,6 +352,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0002-add-two-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/Arunsai125/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Arunsai125/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/Arunsai125/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arunsai125/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Arunsai125/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunsai125/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
