@@ -394,6 +394,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Arunsai125/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1205-defanging-an-ip-address](https://github.com/Arunsai125/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1297-maximum-number-of-balloons](https://github.com/Arunsai125/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Arunsai125/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Arunsai125/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arunsai125/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Arunsai125/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
