@@ -85,6 +85,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0057-insert-interval](https://github.com/Arunsai125/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Arunsai125/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Arunsai125/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Arunsai125/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arunsai125/LeetCode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Arunsai125/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Arunsai125/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -709,6 +710,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Arunsai125/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Arunsai125/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Arunsai125/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Arunsai125/LeetCode/tree/master/0338-counting-bits) |
@@ -968,6 +970,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Arunsai125/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arunsai125/LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunsai125/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
