@@ -1,15 +1,12 @@
 class Solution {
     public int fib(int n) {
-        int ans=0;
-        if(n==0) return 0;
-        if(n==1) return 1;
-        int first = 0;
-        int second = 1;
-        for(int i=2;i<=n;i++){
-            ans = first + second;
-            first = second;
-            second=ans;
-        }
-    return ans;
+        int[] dp = new int[n+1];
+        Arrays.fill(dp, -1);
+        return recursion(n, dp);
+    }
+    public int recursion(int n, int[] dp){
+        if(n<=1) return n;
+        if(dp[n] != -1) return dp[n];
+        return dp[n] = recursion(n-1, dp) + recursion(n-2, dp);
     }
 }
