@@ -112,6 +112,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunsai125/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0403-frog-jump](https://github.com/Arunsai125/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Arunsai125/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arunsai125/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -684,6 +685,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0152-maximum-product-subarray](https://github.com/Arunsai125/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Arunsai125/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Arunsai125/LeetCode/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/Arunsai125/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/Arunsai125/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0806-domino-and-tromino-tiling](https://github.com/Arunsai125/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
