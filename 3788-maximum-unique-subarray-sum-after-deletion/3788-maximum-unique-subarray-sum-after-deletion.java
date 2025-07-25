@@ -1,18 +1,18 @@
 class Solution {
     public int maxSum(int[] nums) {
-        int ans = 0;
-        int ans2 = nums[0];
-        int sum=0;
-        Set<Integer> set = new HashSet<>();
-        for(int i=0;i<nums.length;i++){
-            if(!set.contains(nums[i]) && nums[i] > 0){
-                sum += nums[i];
-                ans = Math.max(ans, sum);
-                set.add(nums[i]);
+        boolean[] found = new boolean[101];
+        int sum = 0, largestNegative = Integer.MIN_VALUE;
+        for (int num : nums) {
+            if (num <= 0) {
+                largestNegative = Math.max(largestNegative, num);
+                continue;
             }
-            else ans2 = Math.max(ans2, nums[i]);
+            if (found[num]) {
+                continue;
+            }
+            found[num] = true;
+            sum += num;
         }
-        if(ans==0) return ans2;
-    return ans;
+        return sum == 0 ? largestNegative : sum;
     }
 }
