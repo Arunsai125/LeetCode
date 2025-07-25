@@ -1,13 +1,12 @@
 class Solution {
     public int climbStairs(int n) {
-        if(n==1 || n==2) return n;
-        int first = 1;
-        int second = 2;
-        for(int i=3;i<=n;i++){
-            int ans = first+second;
-            first = second;
-            second = ans;
-        }
-    return second;
+        int[] dp = new int[n+1];
+        Arrays.fill(dp, -1);
+        return recursion(n, dp);
+    }
+    public int recursion(int n, int[] dp){
+        if(n<=2) return n;
+        if(dp[n] != -1) return dp[n];
+    return dp[n] = recursion(n-1, dp) + recursion(n-2, dp);
     }
 }
