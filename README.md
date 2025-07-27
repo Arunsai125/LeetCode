@@ -193,6 +193,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Arunsai125/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2249-count-the-hidden-sequences](https://github.com/Arunsai125/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Arunsai125/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Arunsai125/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Arunsai125/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Arunsai125/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
