@@ -9,9 +9,7 @@ class Solution {
         if (index == nums.length) {
             return currentOr == target ? 1 : 0;
         }
-        // Include nums[index]
         int with = dfs(nums, index + 1, currentOr | nums[index], target);
-        // Exclude nums[index]
         int without = dfs(nums, index + 1, currentOr, target);
         return with + without;
     }
