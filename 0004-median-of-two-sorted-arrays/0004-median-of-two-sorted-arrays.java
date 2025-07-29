@@ -14,7 +14,7 @@ class Solution {
             int r2 = (mid2<nums2.length) ? nums2[mid2] : Integer.MAX_VALUE;
             if(l1<=r2 && l2<=r1){
                 if(length%2==0){
-                    return ((double)(Math.max(l1,l2)) + (double) (Math.min(r1,r2)) ) /2.0;
+                    return ((double)(Math.max(l1,l2)) + (double) (Math.min(r1,r2)) ) / 2.0;
                 }
                 else return (double) Math.max(l1,l2);
             }
