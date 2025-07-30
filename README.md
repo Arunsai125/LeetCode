@@ -240,6 +240,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0012-integer-to-roman](https://github.com/Arunsai125/LeetCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Arunsai125/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Arunsai125/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Arunsai125/LeetCode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Arunsai125/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Arunsai125/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Arunsai125/LeetCode/tree/master/0202-happy-number) |
@@ -304,6 +305,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0002-add-two-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Arunsai125/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/Arunsai125/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Arunsai125/LeetCode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Arunsai125/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arunsai125/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
@@ -854,6 +856,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Arunsai125/LeetCode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Arunsai125/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Arunsai125/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Arunsai125/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -990,4 +993,8 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunsai125/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arunsai125/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Arunsai125/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
