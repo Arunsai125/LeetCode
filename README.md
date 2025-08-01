@@ -141,6 +141,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0854-making-a-large-island](https://github.com/Arunsai125/LeetCode/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Arunsai125/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Arunsai125/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arunsai125/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Arunsai125/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Arunsai125/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -698,6 +699,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0647-palindromic-substrings](https://github.com/Arunsai125/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0806-domino-and-tromino-tiling](https://github.com/Arunsai125/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Arunsai125/LeetCode/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Arunsai125/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Arunsai125/LeetCode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunsai125/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arunsai125/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -732,6 +734,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0461-hamming-distance](https://github.com/Arunsai125/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Arunsai125/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Arunsai125/LeetCode/tree/master/0645-set-mismatch) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Arunsai125/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Arunsai125/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Arunsai125/LeetCode/tree/master/1839-decode-xored-array) |
