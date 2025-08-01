@@ -613,6 +613,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0079-word-search](https://github.com/Arunsai125/LeetCode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
@@ -693,6 +694,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0118-pascals-triangle](https://github.com/Arunsai125/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Arunsai125/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arunsai125/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Arunsai125/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Arunsai125/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Arunsai125/LeetCode/tree/master/0392-is-subsequence) |
@@ -842,6 +844,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -855,6 +858,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
