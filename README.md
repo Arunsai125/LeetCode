@@ -612,6 +612,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Arunsai125/LeetCode/tree/master/0079-word-search) |
+| [0110-balanced-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0463-island-perimeter](https://github.com/Arunsai125/LeetCode/tree/master/0463-island-perimeter) |
@@ -839,6 +840,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunsai125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -850,6 +852,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunsai125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
