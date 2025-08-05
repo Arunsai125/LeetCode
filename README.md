@@ -379,6 +379,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0203-remove-linked-list-elements](https://github.com/Arunsai125/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/Arunsai125/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arunsai125/LeetCode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Arunsai125/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Arunsai125/LeetCode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunsai125/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Arunsai125/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -397,6 +398,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0387-first-unique-character-in-a-string](https://github.com/Arunsai125/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Arunsai125/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Arunsai125/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Arunsai125/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Arunsai125/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Arunsai125/LeetCode/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Arunsai125/LeetCode/tree/master/0500-keyboard-row) |
@@ -513,6 +515,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0042-trapping-rain-water](https://github.com/Arunsai125/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Arunsai125/LeetCode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Arunsai125/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/Arunsai125/LeetCode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Arunsai125/LeetCode/tree/master/0682-baseball-game) |
 | [1666-make-the-string-great](https://github.com/Arunsai125/LeetCode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Arunsai125/LeetCode/tree/master/2128-reverse-prefix-of-word) |
