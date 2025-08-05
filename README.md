@@ -401,6 +401,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0394-decode-string](https://github.com/Arunsai125/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Arunsai125/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Arunsai125/LeetCode/tree/master/0415-add-strings) |
+| [0443-string-compression](https://github.com/Arunsai125/LeetCode/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/Arunsai125/LeetCode/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Arunsai125/LeetCode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Arunsai125/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -607,6 +608,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunsai125/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Arunsai125/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Arunsai125/LeetCode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Arunsai125/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arunsai125/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Arunsai125/LeetCode/tree/master/0567-permutation-in-string) |
