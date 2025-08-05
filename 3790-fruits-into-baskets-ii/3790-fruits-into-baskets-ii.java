@@ -1,12 +1,12 @@
 class Solution {
     public int numOfUnplacedFruits(int[] fruits, int[] baskets) {
         int ans = fruits.length;
-        Set<Integer> set = new HashSet<>();
+        boolean[] visited = new boolean[1001];
         for(int i : fruits){
             for(int j=0;j<baskets.length;j++){
-                if(baskets[j] >= i && !set.contains(j)){
+                if(baskets[j] >= i && !visited[j]){
                     ans--;
-                    set.add(j);
+                    visited[j] = true;
                     break;
                 }
             }
