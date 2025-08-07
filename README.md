@@ -325,6 +325,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0007-reverse-integer](https://github.com/Arunsai125/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Arunsai125/LeetCode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Arunsai125/LeetCode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Arunsai125/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Arunsai125/LeetCode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Arunsai125/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Arunsai125/LeetCode/tree/master/0189-rotate-array) |
@@ -712,6 +713,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arunsai125/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Arunsai125/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Arunsai125/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Arunsai125/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Arunsai125/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Arunsai125/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -979,6 +981,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Arunsai125/LeetCode/tree/master/0062-unique-paths) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Arunsai125/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Arunsai125/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
