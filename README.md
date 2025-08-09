@@ -334,6 +334,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0166-fraction-to-recurring-decimal](https://github.com/Arunsai125/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Arunsai125/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arunsai125/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Arunsai125/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Arunsai125/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Arunsai125/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arunsai125/LeetCode/tree/master/0342-power-of-four) |
@@ -386,6 +387,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0002-add-two-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/Arunsai125/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Arunsai125/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Arunsai125/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Arunsai125/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arunsai125/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Arunsai125/LeetCode/tree/master/0394-decode-string) |
@@ -771,6 +773,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0078-subsets](https://github.com/Arunsai125/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Arunsai125/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Arunsai125/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Arunsai125/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Arunsai125/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Arunsai125/LeetCode/tree/master/0342-power-of-four) |
