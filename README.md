@@ -216,6 +216,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2504-find-all-good-indices](https://github.com/Arunsai125/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Arunsai125/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Arunsai125/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/Arunsai125/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Arunsai125/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Arunsai125/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2689-rearranging-fruits](https://github.com/Arunsai125/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -801,6 +802,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2427-first-letter-to-appear-twice](https://github.com/Arunsai125/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Arunsai125/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Arunsai125/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/Arunsai125/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunsai125/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Arunsai125/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sorting
@@ -967,6 +969,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2249-count-the-hidden-sequences](https://github.com/Arunsai125/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2504-find-all-good-indices](https://github.com/Arunsai125/LeetCode/tree/master/2504-find-all-good-indices) |
+| [2529-range-product-queries-of-powers](https://github.com/Arunsai125/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/Arunsai125/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Arunsai125/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arunsai125/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
