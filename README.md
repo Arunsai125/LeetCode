@@ -155,6 +155,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arunsai125/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Arunsai125/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Arunsai125/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0967-minimum-falling-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arunsai125/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Arunsai125/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Arunsai125/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -715,6 +716,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Arunsai125/LeetCode/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0898-transpose-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Arunsai125/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/Arunsai125/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -761,6 +763,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0806-domino-and-tromino-tiling](https://github.com/Arunsai125/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Arunsai125/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arunsai125/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0967-minimum-falling-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/Arunsai125/LeetCode/tree/master/1013-fibonacci-number) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunsai125/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arunsai125/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
