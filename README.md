@@ -238,6 +238,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Arunsai125/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3226-minimum-number-game](https://github.com/Arunsai125/LeetCode/tree/master/3226-minimum-number-game) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arunsai125/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Arunsai125/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/Arunsai125/LeetCode/tree/master/3321-type-of-triangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Arunsai125/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Arunsai125/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
