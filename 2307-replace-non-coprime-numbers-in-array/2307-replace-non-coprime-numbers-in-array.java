@@ -12,11 +12,11 @@ class Solution {
     return list;
     }
     public int gcd(int a, int b){
-        while(a!=b){
+        while(a!=0 && b!=0){
             if(a>b) a = a%b;
             else b = b%a;
         }
-    return a;
+    return a == 0 ? b : a;
     }
     public int findLCM(int a, int b){
          return (int) ((long) a * b / gcd(a, b)); 
