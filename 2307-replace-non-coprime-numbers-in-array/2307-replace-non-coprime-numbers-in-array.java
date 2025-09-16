@@ -3,8 +3,8 @@ class Solution {
         List<Integer> list = new ArrayList<>();
         for(int num : nums){
             if(!list.isEmpty() && gcd(list.get(list.size()-1), num) > 1){
-                int lcm = findLCM(list.get(list.size()-1), num);
-                list.remove(list.get(list.size()-1));
+                int val = list.remove(list.size()-1);
+                int lcm = findLCM(val, num);
                 list.add(lcm);
             }
             else list.add(num);
