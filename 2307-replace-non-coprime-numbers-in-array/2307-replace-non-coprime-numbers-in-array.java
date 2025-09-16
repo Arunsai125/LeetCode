@@ -2,12 +2,13 @@ class Solution {
     public List<Integer> replaceNonCoprimes(int[] nums) {
         List<Integer> list = new ArrayList<>();
         for(int num : nums){
-            if(!list.isEmpty() && gcd(list.get(list.size()-1), num) > 1){
-                int val = list.remove(list.size()-1);
+            int val = num;
+            while(!list.isEmpty() && gcd(list.get(list.size()-1), num) > 1){
+                val = list.remove(list.size()-1);
                 int lcm = findLCM(val, num);
                 list.add(lcm);
             }
-            else list.add(num);
+            list.add(num);
         }
     return list;
     }
