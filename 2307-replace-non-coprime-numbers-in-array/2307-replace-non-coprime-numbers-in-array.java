@@ -19,6 +19,6 @@ class Solution {
     return a;
     }
     public int findLCM(int a, int b){
-        return a*b / gcd(a,b);
+         return (int) ((long) a * b / gcd(a, b)); 
     }
 }
