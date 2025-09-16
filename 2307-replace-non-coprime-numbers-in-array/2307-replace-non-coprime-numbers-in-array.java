@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public List<Integer> replaceNonCoprimes(int[] nums) {
         List<Integer> ans = new ArrayList<>();
