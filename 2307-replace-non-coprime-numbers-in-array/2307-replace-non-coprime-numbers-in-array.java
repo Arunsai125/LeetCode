@@ -1,26 +1,24 @@
 class Solution {
     public List<Integer> replaceNonCoprimes(int[] nums) {
-        List<Integer> ans = new ArrayList<>();
-        for (int num : nums) {
+        List<Integer> list = new ArrayList<>();
+        for(int num : nums){
             int val = num;
-            while (!ans.isEmpty() && gcd(ans.get(ans.size() - 1), val) > 1) {
-                int last = ans.remove(ans.size() - 1);
-                val = lcm(last, val);
+            while(!list.isEmpty() && gcd(list.get(list.size()-1), val) > 1){
+                int last = list.remove(list.size()-1);
+                val = findLCM(val, last);
             }
-            ans.add(val);
+            list.add(val);
         }
-        return ans;
+    return list;
     }
-
-    public int gcd(int a, int b) {
-        while (a != 0 && b != 0) {
-            if (a > b) a = a % b;
-            else b = b % a;
+    public int gcd(int a, int b){
+        while(a!=b){
+            if(a>b) a = a%b;
+            else b = b%a;
         }
-        return a == 0 ? b : a;
+    return a;
     }
-
-    public int lcm(int a, int b) {
-        return (int) ((long) a * b / gcd(a, b)); 
+    public int findLCM(int a, int b){
+         return (int) ((long) a * b / gcd(a, b)); 
     }
 }
