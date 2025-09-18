@@ -333,6 +333,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunsai125/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arunsai125/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Arunsai125/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3678-design-task-manager](https://github.com/Arunsai125/LeetCode/tree/master/3678-design-task-manager) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Arunsai125/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arunsai125/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arunsai125/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -920,6 +921,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunsai125/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunsai125/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Arunsai125/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3678-design-task-manager](https://github.com/Arunsai125/LeetCode/tree/master/3678-design-task-manager) |
 ## Database
 |  |
 | ------- |
@@ -999,6 +1001,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0304-range-sum-query-2d-immutable](https://github.com/Arunsai125/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Arunsai125/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arunsai125/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3678-design-task-manager](https://github.com/Arunsai125/LeetCode/tree/master/3678-design-task-manager) |
 ## Enumeration
 |  |
 | ------- |
@@ -1128,6 +1131,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Arunsai125/LeetCode/tree/master/0493-reverse-pairs) |
+| [3678-design-task-manager](https://github.com/Arunsai125/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arunsai125/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Backtracking
 |  |
