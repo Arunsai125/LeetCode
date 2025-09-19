@@ -160,6 +160,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0941-sort-array-by-parity](https://github.com/Arunsai125/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0967-minimum-falling-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/Arunsai125/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1046-max-consecutive-ones-iii](https://github.com/Arunsai125/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arunsai125/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Arunsai125/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Arunsai125/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -519,6 +520,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0567-permutation-in-string](https://github.com/Arunsai125/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arunsai125/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Arunsai125/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1046-max-consecutive-ones-iii](https://github.com/Arunsai125/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arunsai125/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arunsai125/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -550,6 +552,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0792-binary-search](https://github.com/Arunsai125/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Arunsai125/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Arunsai125/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Arunsai125/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Arunsai125/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -1032,6 +1035,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0410-split-array-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Arunsai125/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Arunsai125/LeetCode/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/Arunsai125/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/Arunsai125/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Arunsai125/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
