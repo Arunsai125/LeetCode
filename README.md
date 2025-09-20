@@ -264,6 +264,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arunsai125/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arunsai125/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/Arunsai125/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Arunsai125/LeetCode/tree/master/3827-implement-router) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arunsai125/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -342,6 +343,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arunsai125/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arunsai125/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Arunsai125/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Arunsai125/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arunsai125/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -566,6 +568,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arunsai125/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Arunsai125/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arunsai125/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/Arunsai125/LeetCode/tree/master/3827-implement-router) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -784,6 +787,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0387-first-unique-character-in-a-string](https://github.com/Arunsai125/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arunsai125/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Arunsai125/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3827-implement-router](https://github.com/Arunsai125/LeetCode/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1015,6 +1019,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2429-design-a-food-rating-system](https://github.com/Arunsai125/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arunsai125/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Arunsai125/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Arunsai125/LeetCode/tree/master/3827-implement-router) |
 ## Enumeration
 |  |
 | ------- |
@@ -1148,6 +1153,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2429-design-a-food-rating-system](https://github.com/Arunsai125/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arunsai125/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arunsai125/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/Arunsai125/LeetCode/tree/master/3827-implement-router) |
 ## Backtracking
 |  |
 | ------- |
