@@ -141,6 +141,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0594-longest-harmonious-subsequence](https://github.com/Arunsai125/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Arunsai125/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Arunsai125/LeetCode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Arunsai125/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Arunsai125/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Arunsai125/LeetCode/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Arunsai125/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -554,6 +555,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0410-split-array-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Arunsai125/LeetCode/tree/master/0436-find-right-interval) |
 | [0493-reverse-pairs](https://github.com/Arunsai125/LeetCode/tree/master/0493-reverse-pairs) |
+| [0611-valid-triangle-number](https://github.com/Arunsai125/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/Arunsai125/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Arunsai125/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -606,6 +608,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0410-split-array-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/Arunsai125/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Arunsai125/LeetCode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Arunsai125/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/Arunsai125/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/Arunsai125/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arunsai125/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -695,6 +698,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0541-reverse-string-ii](https://github.com/Arunsai125/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Arunsai125/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Arunsai125/LeetCode/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Arunsai125/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Arunsai125/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0868-push-dominoes](https://github.com/Arunsai125/LeetCode/tree/master/0868-push-dominoes) |
 | [0941-sort-array-by-parity](https://github.com/Arunsai125/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -898,6 +902,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0506-relative-ranks](https://github.com/Arunsai125/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Arunsai125/LeetCode/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/Arunsai125/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Arunsai125/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Arunsai125/LeetCode/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/Arunsai125/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/Arunsai125/LeetCode/tree/master/0778-reorganize-string) |
