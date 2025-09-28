@@ -161,6 +161,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0941-sort-array-by-parity](https://github.com/Arunsai125/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0967-minimum-falling-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/Arunsai125/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Arunsai125/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arunsai125/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arunsai125/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Arunsai125/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -380,6 +381,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0830-largest-triangle-area](https://github.com/Arunsai125/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Arunsai125/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Arunsai125/LeetCode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Arunsai125/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Arunsai125/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arunsai125/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arunsai125/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -611,6 +613,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0611-valid-triangle-number](https://github.com/Arunsai125/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/Arunsai125/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/Arunsai125/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/Arunsai125/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arunsai125/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Arunsai125/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Arunsai125/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -908,6 +911,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0778-reorganize-string](https://github.com/Arunsai125/LeetCode/tree/master/0778-reorganize-string) |
 | [0900-reordered-power-of-2](https://github.com/Arunsai125/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/Arunsai125/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1018-largest-perimeter-triangle](https://github.com/Arunsai125/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/Arunsai125/LeetCode/tree/master/1137-height-checker) |
 | [1306-minimum-absolute-difference](https://github.com/Arunsai125/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
