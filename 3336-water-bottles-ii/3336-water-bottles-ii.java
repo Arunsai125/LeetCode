@@ -6,7 +6,7 @@ class Solution {
             if(emptyBottle<numExchange){
                 emptyBottle+=fullBottle;
                 bottleDrunk+=fullBottle;
-                fullBottle-=fullBottle;
+                fullBottle=0;
             }else{
                 while(emptyBottle>=numExchange){
                     emptyBottle=emptyBottle-numExchange;
