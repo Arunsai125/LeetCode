@@ -24,7 +24,6 @@ class Solution {
     }
     public boolean isReachable(int[][] nums, int target){
         int n =nums.length;
-        boolean ans = false;
         Queue<Pair> q = new LinkedList<>();
         q.add(new Pair(0,0));
         boolean[][] visited = new boolean[n][n];
@@ -38,8 +37,7 @@ class Solution {
                 int r = temp.r;
                 int c = temp.c;
                 if(r==n-1 && c==n-1){
-                    ans=true;
-                    break;
+                    return true;
                 }
                 for(int j=0;j<4;j++){
                     int newRow = r + row[j];
@@ -51,6 +49,6 @@ class Solution {
                 }
             }
         }
-    return ans;
+    return false;
     }
 }
