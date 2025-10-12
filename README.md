@@ -520,6 +520,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3379-score-of-a-string](https://github.com/Arunsai125/LeetCode/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/Arunsai125/LeetCode/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Arunsai125/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Arunsai125/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunsai125/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/Arunsai125/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arunsai125/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -687,6 +688,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2324-find-triangular-sum-of-an-array](https://github.com/Arunsai125/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3226-minimum-number-game](https://github.com/Arunsai125/LeetCode/tree/master/3226-minimum-number-game) |
 | [3336-water-bottles-ii](https://github.com/Arunsai125/LeetCode/tree/master/3336-water-bottles-ii) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Arunsai125/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunsai125/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Arunsai125/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arunsai125/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
