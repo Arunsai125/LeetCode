@@ -431,6 +431,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunsai125/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arunsai125/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Arunsai125/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Arunsai125/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Arunsai125/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/Arunsai125/LeetCode/tree/master/3830-find-closest-person) |
@@ -902,6 +903,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2529-range-product-queries-of-powers](https://github.com/Arunsai125/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunsai125/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Arunsai125/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Arunsai125/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Arunsai125/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Sorting
 |  |
