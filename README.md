@@ -241,6 +241,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2529-range-product-queries-of-powers](https://github.com/Arunsai125/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Arunsai125/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Arunsai125/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Arunsai125/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Arunsai125/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2714-left-and-right-sum-differences](https://github.com/Arunsai125/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arunsai125/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -344,6 +345,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2427-first-letter-to-appear-twice](https://github.com/Arunsai125/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2429-design-a-food-rating-system](https://github.com/Arunsai125/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arunsai125/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Arunsai125/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Arunsai125/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2777-find-the-distinct-difference-array](https://github.com/Arunsai125/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arunsai125/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -421,6 +423,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2556-convert-the-temperature](https://github.com/Arunsai125/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/Arunsai125/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Arunsai125/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Arunsai125/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Arunsai125/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Arunsai125/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2998-count-symmetric-integers](https://github.com/Arunsai125/LeetCode/tree/master/2998-count-symmetric-integers) |
@@ -653,6 +656,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arunsai125/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunsai125/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arunsai125/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Arunsai125/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Arunsai125/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Arunsai125/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arunsai125/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
