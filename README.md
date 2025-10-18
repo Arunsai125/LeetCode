@@ -264,6 +264,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3582-find-indices-of-stable-mountains](https://github.com/Arunsai125/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Arunsai125/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Arunsai125/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Arunsai125/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arunsai125/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunsai125/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Arunsai125/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -665,6 +666,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Arunsai125/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arunsai125/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunsai125/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Arunsai125/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3738-make-array-non-decreasing](https://github.com/Arunsai125/LeetCode/tree/master/3738-make-array-non-decreasing) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Arunsai125/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arunsai125/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -972,6 +974,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3321-type-of-triangle](https://github.com/Arunsai125/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arunsai125/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Arunsai125/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Arunsai125/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
