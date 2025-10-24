@@ -1,25 +1,25 @@
 class Solution {
     public int nextBeautifulNumber(int n) {
-        int num = n + 1;
-        while (!isNumericallyBalanced(num)) {
-            num++;
+        int ans = n+1;
+        while(!isBeautifulNumber(ans)){
+            ans++;
         }
-        return num;
+    return ans;
     }
-
-    private boolean isNumericallyBalanced(int num) {
-        int[] digitCount = new int[10];
-        while (num > 0) {
-            int digit = num % 10;
-            digitCount[digit]++;
-            num /= 10;
+    public boolean isBeautifulNumber(int num){
+        int freq[] = new int[10];
+        int temp = num;
+        while(temp!=0){
+            int d = temp%10;
+            freq[d]++;
+            temp/=10;
         }
-        for (int i = 0; i < 10; i++) {
-            if (digitCount[i] != 0 && digitCount[i] != i) {
-                return false;
+        for(int i=0;i<10;i++){
+            if(freq[i]!=0){
+                if(freq[i]!=i) return false;
             }
+            else continue;
         }
-        return true;
+    return true;
     }
 }
-
