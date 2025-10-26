@@ -216,6 +216,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arunsai125/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arunsai125/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Arunsai125/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2169-simple-bank-system](https://github.com/Arunsai125/LeetCode/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arunsai125/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arunsai125/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -340,6 +341,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arunsai125/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arunsai125/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arunsai125/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2169-simple-bank-system](https://github.com/Arunsai125/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Arunsai125/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunsai125/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -702,6 +704,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2048-build-array-from-permutation](https://github.com/Arunsai125/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Arunsai125/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arunsai125/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/Arunsai125/LeetCode/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Arunsai125/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Arunsai125/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Arunsai125/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -1084,6 +1087,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0304-range-sum-query-2d-immutable](https://github.com/Arunsai125/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Arunsai125/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arunsai125/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2169-simple-bank-system](https://github.com/Arunsai125/LeetCode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/Arunsai125/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Arunsai125/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Arunsai125/LeetCode/tree/master/3797-design-spreadsheet) |
