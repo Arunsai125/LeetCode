@@ -1,13 +1,13 @@
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
-        Set<Integer> set = new HashSet<>();
-        for(int i : nums) set.add(i);
+        int[] freq = new int[100001];
+        for(int i : nums) freq[i]++;
         ListNode ans = new ListNode(-1);
         ListNode prev = ans;
         ListNode dummy = ans;        
         ListNode temp = head;
         while(temp!=null){
-            if(set.contains(temp.val)){
+            if(freq[temp.val]!=0){
                 if(dummy.next==null){
                     temp=temp.next;
                     continue;
@@ -24,7 +24,6 @@ class Solution {
             dummy = dummy.next;
             prev = temp;
             temp = temp.next;
-
         }
     return ans.next;
     }
