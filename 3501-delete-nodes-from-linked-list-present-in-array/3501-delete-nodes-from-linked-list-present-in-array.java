@@ -3,17 +3,28 @@ class Solution {
         Set<Integer> set = new HashSet<>();
         for(int i : nums) set.add(i);
         ListNode ans = new ListNode(-1);
+        ListNode prev = ans;
         ListNode dummy = ans;        
         ListNode temp = head;
         while(temp!=null){
             if(set.contains(temp.val)){
-                temp = temp.next;
-                continue;
+                if(dummy.next==null){
+                    temp=temp.next;
+                    continue;
+                }
+                else{
+                    ListNode next = temp.next;
+                    prev.next = null;
+                    temp.next = null;
+                    temp = next;
+                    continue;
+                }
             }
-            ListNode newNode = new ListNode(temp.val);
-            dummy.next = newNode;
+            dummy.next = temp;
             dummy = dummy.next;
+            prev = temp;
             temp = temp.next;
+
         }
     return ans.next;
     }
