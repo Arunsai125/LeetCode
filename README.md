@@ -200,6 +200,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1646-kth-missing-positive-number](https://github.com/Arunsai125/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Arunsai125/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Arunsai125/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Arunsai125/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Arunsai125/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1791-richest-customer-wealth](https://github.com/Arunsai125/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -522,6 +523,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Arunsai125/LeetCode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arunsai125/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1666-make-the-string-great](https://github.com/Arunsai125/LeetCode/tree/master/1666-make-the-string-great) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Arunsai125/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1797-goal-parser-interpretation](https://github.com/Arunsai125/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Arunsai125/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Arunsai125/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -666,6 +668,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1448-maximum-69-number](https://github.com/Arunsai125/LeetCode/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Arunsai125/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Arunsai125/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Arunsai125/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Arunsai125/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunsai125/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -903,6 +906,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arunsai125/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Arunsai125/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Arunsai125/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Arunsai125/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arunsai125/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arunsai125/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Arunsai125/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
