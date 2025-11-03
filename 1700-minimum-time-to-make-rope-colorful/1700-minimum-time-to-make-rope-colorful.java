@@ -12,15 +12,10 @@ class Solution {
                     i++;
                 }
                 ans += time - max;
-                if(i<colors.length()) time = neededTime[i];
-                max = time;
-                i++;
             }
-            else{
-                time = neededTime[i];
-                max = time;
-                i++;
-            }
+            if(i<colors.length()) time = neededTime[i];
+            max = time;
+            i++;
         }
     return ans;
     }
