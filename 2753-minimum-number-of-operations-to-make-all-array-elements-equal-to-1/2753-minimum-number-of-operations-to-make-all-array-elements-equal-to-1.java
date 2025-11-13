@@ -15,7 +15,8 @@ class Solution {
             }
         }
         if(ans == Integer.MAX_VALUE) return -1;
-    return (ans-1) + (n-1);
+        // (ans-1) + (n-1)
+    return n+ans-2;
     }
     public int gcd(int a, int b){
         while(a!=0 && b!=0){
