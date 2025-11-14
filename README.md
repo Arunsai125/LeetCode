@@ -247,6 +247,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2529-range-product-queries-of-powers](https://github.com/Arunsai125/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Arunsai125/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Arunsai125/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2625-increment-submatrices-by-one](https://github.com/Arunsai125/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Arunsai125/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Arunsai125/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2714-left-and-right-sum-differences](https://github.com/Arunsai125/LeetCode/tree/master/2714-left-and-right-sum-differences) |
@@ -872,6 +873,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Arunsai125/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Arunsai125/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2625-increment-submatrices-by-one](https://github.com/Arunsai125/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2737-row-with-maximum-ones](https://github.com/Arunsai125/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Arunsai125/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunsai125/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1168,6 +1170,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2504-find-all-good-indices](https://github.com/Arunsai125/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2529-range-product-queries-of-powers](https://github.com/Arunsai125/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/Arunsai125/LeetCode/tree/master/2571-find-the-pivot-integer) |
+| [2625-increment-submatrices-by-one](https://github.com/Arunsai125/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2714-left-and-right-sum-differences](https://github.com/Arunsai125/LeetCode/tree/master/2714-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Arunsai125/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
