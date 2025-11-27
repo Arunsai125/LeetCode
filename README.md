@@ -268,6 +268,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arunsai125/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Arunsai125/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/Arunsai125/LeetCode/tree/master/3321-type-of-triangle) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Arunsai125/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Arunsai125/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Arunsai125/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Arunsai125/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -372,6 +373,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2777-find-the-distinct-difference-array](https://github.com/Arunsai125/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arunsai125/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arunsai125/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Arunsai125/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Arunsai125/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunsai125/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Arunsai125/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1186,6 +1188,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2571-find-the-pivot-integer](https://github.com/Arunsai125/LeetCode/tree/master/2571-find-the-pivot-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/Arunsai125/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2714-left-and-right-sum-differences](https://github.com/Arunsai125/LeetCode/tree/master/2714-left-and-right-sum-differences) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Arunsai125/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Arunsai125/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arunsai125/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
