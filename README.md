@@ -558,6 +558,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2128-reverse-prefix-of-word](https://github.com/Arunsai125/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arunsai125/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunsai125/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2211-count-collisions-on-a-road](https://github.com/Arunsai125/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Arunsai125/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2226-rings-and-rods](https://github.com/Arunsai125/LeetCode/tree/master/2226-rings-and-rods) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Arunsai125/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -677,6 +678,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Arunsai125/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1666-make-the-string-great](https://github.com/Arunsai125/LeetCode/tree/master/1666-make-the-string-great) |
 | [2128-reverse-prefix-of-word](https://github.com/Arunsai125/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2211-count-collisions-on-a-road](https://github.com/Arunsai125/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Arunsai125/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arunsai125/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunsai125/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -757,6 +759,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2058-concatenation-of-array](https://github.com/Arunsai125/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arunsai125/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Arunsai125/LeetCode/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/Arunsai125/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Arunsai125/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Arunsai125/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Arunsai125/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
