@@ -1,7 +1,5 @@
 class Solution {
     public int countOdds(int low, int high) {
-        int diff = (high+1-low)/2;
-        if(low%2==1 && high%2==1) diff+=1;
-        return diff;
+         return (high-low)/2 + ((low % 2 != 0 || high % 2 != 0) ? 1 : 0);
     }
 }
