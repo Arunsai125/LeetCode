@@ -1,13 +1,15 @@
 class Solution {
     public int countTriples(int n) {
-        int ans = 0;
-        Set<Integer> squares = new HashSet<>();
-        for(int i=1;i<=n;i++) squares.add(i*i);
-        for(int i=1;i<=n;i++){
-            for(int j=i+1;j<=n;j++){
-                if(squares.contains((i*i) + (j*j))) ans+=2;
+        int count = 0;
+        for (int a = 1; a <= n; a++) {
+            for (int b = 1; b <= n; b++) {
+                int c2 = a*a+b*b;
+                int c = (int)Math.sqrt(c2);
+                if (c<=n && c*c == c2) {
+                    count++;
+                }
             }
         }
-    return ans;
+        return count;
     }
 }
