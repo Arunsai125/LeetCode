@@ -34,15 +34,13 @@ class Solution {
                 if(temp.left!=null) { q.add(temp.left); tempList.add(temp.left); }
                 if(temp.right!=null) { q.add(temp.right); tempList.add(temp.right); }
             }
-            list.add(tempList);
+            if(tempList.size()>0) list.add(tempList);
         }
         for(List<Node> al : list){
-            if(al.size()>1){
                 for(int i=0;i<al.size()-1;i++){
                     al.get(i).next = al.get(i+1);
                 }
                 al.get(al.size()-1).next = null;
-            }
         }
     return root;
     }
