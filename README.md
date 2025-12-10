@@ -275,6 +275,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Arunsai125/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arunsai125/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Arunsai125/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Arunsai125/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arunsai125/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Arunsai125/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -478,6 +479,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Arunsai125/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Arunsai125/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Arunsai125/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arunsai125/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunsai125/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Arunsai125/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1254,6 +1256,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2481-strictly-palindromic-number](https://github.com/Arunsai125/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Arunsai125/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3462-vowels-game-in-a-string](https://github.com/Arunsai125/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1268,6 +1271,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0062-unique-paths](https://github.com/Arunsai125/LeetCode/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Arunsai125/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Arunsai125/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Arunsai125/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Arunsai125/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
