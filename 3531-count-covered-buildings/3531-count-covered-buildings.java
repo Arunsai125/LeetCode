@@ -1,6 +1,6 @@
 class Solution {
     public int countCoveredBuildings(int n, int[][] buildings) {
-                int[] minX = new int[n + 1];
+        int[] minX = new int[n + 1];
         int[] maxX = new int[n + 1];
         int[] minY = new int[n + 1];
         int[] maxY = new int[n + 1];
