@@ -281,6 +281,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3582-find-indices-of-stable-mountains](https://github.com/Arunsai125/LeetCode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3583-count-special-triplets](https://github.com/Arunsai125/LeetCode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Arunsai125/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/Arunsai125/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Arunsai125/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Arunsai125/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -386,6 +387,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arunsai125/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Arunsai125/LeetCode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Arunsai125/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/Arunsai125/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Arunsai125/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Arunsai125/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Arunsai125/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -590,6 +592,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunsai125/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/Arunsai125/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Arunsai125/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/Arunsai125/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arunsai125/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunsai125/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arunsai125/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1069,6 +1072,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3321-type-of-triangle](https://github.com/Arunsai125/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arunsai125/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Arunsai125/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3606-coupon-code-validator](https://github.com/Arunsai125/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Arunsai125/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Heap (Priority Queue)
 |  |
