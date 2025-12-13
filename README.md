@@ -275,6 +275,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Arunsai125/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Arunsai125/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Arunsai125/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/Arunsai125/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Arunsai125/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arunsai125/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -384,6 +385,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arunsai125/LeetCode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunsai125/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Arunsai125/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/Arunsai125/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arunsai125/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Arunsai125/LeetCode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Arunsai125/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1072,6 +1074,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3321-type-of-triangle](https://github.com/Arunsai125/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arunsai125/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Arunsai125/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3531-count-covered-buildings](https://github.com/Arunsai125/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Arunsai125/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Arunsai125/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Heap (Priority Queue)
