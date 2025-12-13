@@ -1,31 +1,28 @@
 class Solution {
     public int countCoveredBuildings(int n, int[][] buildings) {
-        Map<Integer,Integer> minXMap = new HashMap<>();
-        Map<Integer,Integer> maxXMap = new HashMap<>();
-        Map<Integer,Integer> maxYMap = new HashMap<>();
-        Map<Integer,Integer> minYMap = new HashMap<>();
-        for(int[] building : buildings){
+                int[] minX = new int[n + 1];
+        int[] maxX = new int[n + 1];
+        int[] minY = new int[n + 1];
+        int[] maxY = new int[n + 1];
+        Arrays.fill(minX, Integer.MAX_VALUE);
+        Arrays.fill(minY, Integer.MAX_VALUE);
+        for (int[] building : buildings) {
             int x = building[0];
             int y = building[1];
-            if(!minXMap.containsKey(x)){
-                minXMap.put(x,y);
-                maxXMap.put(x,y);
-            }
-            if(!minYMap.containsKey(y)){
-                minYMap.put(y,x);
-                maxYMap.put(y,x);
-            }
-            minXMap.put(x, Math.min(minXMap.get(x),y));
-            maxXMap.put(x, Math.max(maxXMap.get(x),y));
-            minYMap.put(y, Math.min(minYMap.get(y),x));
-            maxYMap.put(y, Math.max(maxYMap.get(y),x));
+            minX[y] = Math.min(minX[y], x);
+            maxX[y] = Math.max(maxX[y], x);
+            minY[x] = Math.min(minY[x], y);
+            maxY[x] = Math.max(maxY[x], y);
         }
-        int ans = 0;
-        for(int[] building : buildings){
+
+        int result = 0;
+        for (int[] building : buildings) {
             int x = building[0];
             int y = building[1];
-            if(minXMap.get(x) < y && maxXMap.get(x) > y && minYMap.get(y) < x && maxYMap.get(y) > x) ans++;
+            if (x > minX[y] && x < maxX[y] && y > minY[x] && y < maxY[x]) {
+                result++;
+            }
         }
-    return ans;
+        return result;
     }
 }
