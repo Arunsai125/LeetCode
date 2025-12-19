@@ -301,6 +301,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Arunsai125/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Arunsai125/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Arunsai125/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/Arunsai125/LeetCode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arunsai125/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arunsai125/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/Arunsai125/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -1080,6 +1081,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3531-count-covered-buildings](https://github.com/Arunsai125/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Arunsai125/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Arunsai125/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/Arunsai125/LeetCode/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
