@@ -218,6 +218,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arunsai125/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Arunsai125/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2054-two-best-non-overlapping-events](https://github.com/Arunsai125/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/Arunsai125/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Arunsai125/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arunsai125/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -667,6 +668,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arunsai125/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2054-two-best-non-overlapping-events](https://github.com/Arunsai125/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arunsai125/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Arunsai125/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arunsai125/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -980,6 +982,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Arunsai125/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arunsai125/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arunsai125/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2054-two-best-non-overlapping-events](https://github.com/Arunsai125/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Arunsai125/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Arunsai125/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Arunsai125/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1067,6 +1070,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Arunsai125/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arunsai125/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2054-two-best-non-overlapping-events](https://github.com/Arunsai125/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arunsai125/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunsai125/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -1099,6 +1103,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Arunsai125/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [2054-two-best-non-overlapping-events](https://github.com/Arunsai125/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Arunsai125/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3226-minimum-number-game](https://github.com/Arunsai125/LeetCode/tree/master/3226-minimum-number-game) |
