@@ -1,18 +1,14 @@
 class Solution {
     public long maximumHappinessSum(int[] happiness, int k) {
-        long ans = 0;
-        PriorityQueue<Integer> pq = new PriorityQueue<>((a,b) -> b-a);
-        for(int val : happiness) pq.add(val);
-        int c = 0;
-        ans += (long) pq.poll();
-        k--;
-        c++;
-        while(k!=0){
-            if(pq.peek() - c <= 0 ) return ans;
-            ans += (long) (pq.poll() - c);
-            c++;
-            k--;
+        Arrays.sort(happiness);
+        int count = 0;
+        long res = 0;
+        for(int i=happiness.length-1;i>=happiness.length-k;i--){
+            if(happiness[i] + count > 0){
+                res+=(long)(happiness[i] + count);
+            }
+            count--;
         }
-    return ans;
+        return res;
     }
 }
