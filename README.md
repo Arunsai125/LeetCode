@@ -588,6 +588,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Arunsai125/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/Arunsai125/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2429-design-a-food-rating-system](https://github.com/Arunsai125/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Arunsai125/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arunsai125/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Arunsai125/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2887-sort-vowels-in-a-string](https://github.com/Arunsai125/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -1245,6 +1246,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Arunsai125/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/Arunsai125/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Arunsai125/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2504-find-all-good-indices](https://github.com/Arunsai125/LeetCode/tree/master/2504-find-all-good-indices) |
 | [2529-range-product-queries-of-powers](https://github.com/Arunsai125/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2571-find-the-pivot-integer](https://github.com/Arunsai125/LeetCode/tree/master/2571-find-the-pivot-integer) |
