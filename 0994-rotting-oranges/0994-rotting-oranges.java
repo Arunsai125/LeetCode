@@ -1,35 +1,60 @@
+class Pair{
+    private int x;
+    private int y;
+    private int time;
+    public Pair(int x, int y, int time){
+        this.x=x;
+        this.y=y;
+        this.time=time;
+    }
+    public int getX(){
+        return this.x;
+    }
+    public int getY(){
+        return this.y;
+    }
+    public int getTime(){
+        return this.time;
+    }
+}
+
+
 class Solution {
     public int orangesRotting(int[][] grid) {
-        int ans=0;
-        int[] dx = {-1,0,1,0};
-        int[] dy = {0,1,0,-1};
-        Queue<int[]> q = new LinkedList<>();
-        int freshCount = 0;
-        for(int i=0;i<grid.length;i++){
-            for(int j=0;j<grid[0].length;j++){
+        int ans = 0;
+        Queue<Pair> q = new LinkedList<>();
+        int n = grid.length;
+        int m = grid[0].length;
+        int freshCount=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
                 if(grid[i][j]==0) continue;
                 else if(grid[i][j]==1) freshCount++;
-                else q.add(new int[]{i,j});
+                else q.add(new Pair(i,j,0));
             }
         }
+        int[] dx = {-1,0,1,0};
+        int[] dy = {0,1,0,-1};
         while(!q.isEmpty()){
-            int h = freshCount;
-            int size = q.size();
-            for(int k=0;k<size;k++){
-                int[] temp = q.poll();
-                for(int i=0;i<4;i++){
-                    int newX = temp[0] + dx[i];
-                    int newY = temp[1] + dy[i];
-                    if(newX>=0 && newX<grid.length && newY>=0 && newY<grid[0].length && grid[newX][newY]==1){
-                        freshCount--;
+            int k = q.size();
+            for(int i=0;i<k;i++){
+                Pair temp = q.poll();
+                int x = temp.getX();
+                int y = temp.getY();
+                int time = temp.getTime();
+                ans = Math.max(ans, time);
+                for(int j=0;j<4;j++){
+                    int newX = x + dx[j];
+                    int newY = y + dy[j];
+                    if(newX>=0 && newX<n && newY>=0 && newY<m && grid[newX][newY]==1){
                         grid[newX][newY] = 2;
-                        q.add(new int[]{newX,newY});
+                        freshCount--;
+                        q.add(new Pair(newX,newY,time+1));
                     }
                 }
             }
-            if(freshCount!=h)ans++;
         }
-    if(freshCount==0) return ans;
-    return -1;
+        if(freshCount!=0) return -1;
+        return ans;
     }
 }
