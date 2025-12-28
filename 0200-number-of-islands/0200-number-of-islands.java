@@ -1,39 +1,45 @@
 class Pair{
-    int x;
-    int y;
-    public Pair(int x, int y){
-        this.x=x;
-        this.y=y;
+    int row;
+    int col;
+    Pair(int row, int col){
+        this.row=row;
+        this.col=col;
     }
 }
-
 class Solution {
     public int numIslands(char[][] grid) {
+        int ans=0;
         int n = grid.length;
         int m = grid[0].length;
-        int ans=0;
         boolean[][] visited = new boolean[n][m];
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j] == '1' && !visited[i][j]){
+                if(visited[i][j]==false && grid[i][j]=='1'){
                     ans++;
-                    dfs(grid, visited, i, j);
+                    bfs(grid,visited,i,j,n,m);
                 }
             }
         }
     return ans;
     }
-    public void dfs(char[][] grid, boolean[][] visited, int i, int j){
-        int[] dirX = {-1,0,1,0};
-        int[] dirY = {0,1,0,-1};
-        visited[i][j] = true;
-            for(int k=0;k<4;k++){
-                int newX = i + dirX[k];
-                int newY = j + dirY[k];
-                if(newX>=0 && newX<grid.length && newY>=0 && newY<grid[0].length && visited[newX][newY]==false && grid[newX][newY]=='1'){
-                    visited[newX][newY] = true;
-                    dfs(grid, visited, newX, newY);
+    public void bfs(char[][] grid, boolean[][] visited, int r, int c, int n, int m){
+        Queue<Pair> q = new LinkedList<>();
+        int[] row = {-1,0,1,0};
+        int[] col = {0,1,0,-1};
+        visited[r][c] = true;
+        q.add(new Pair(r,c));
+        while(!q.isEmpty()){
+            Pair temp = q.poll();
+            int ro = temp.row;
+            int co = temp.col;
+            for(int i=0;i<4;i++){
+                int nrow = ro + row[i];
+                int ncol = co + col[i];
+                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m && visited[nrow][ncol]==false && grid[nrow][ncol]=='1'){
+                    visited[nrow][ncol]=true;
+                    q.add(new Pair(nrow,ncol));
                 }
             }
         }
+    }
 }
