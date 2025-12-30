@@ -191,6 +191,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Arunsai125/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Arunsai125/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Arunsai125/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Arunsai125/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Arunsai125/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -631,6 +632,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0594-longest-harmonious-subsequence](https://github.com/Arunsai125/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Arunsai125/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arunsai125/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Arunsai125/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arunsai125/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arunsai125/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -1257,6 +1259,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0560-subarray-sum-equals-k](https://github.com/Arunsai125/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Arunsai125/LeetCode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arunsai125/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Arunsai125/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Arunsai125/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Arunsai125/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
