@@ -159,6 +159,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0797-rabbits-in-forest](https://github.com/Arunsai125/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/Arunsai125/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/Arunsai125/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Arunsai125/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Arunsai125/LeetCode/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Arunsai125/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -354,6 +355,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0782-jewels-and-stones](https://github.com/Arunsai125/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0797-rabbits-in-forest](https://github.com/Arunsai125/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/Arunsai125/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0840-magic-squares-in-grid](https://github.com/Arunsai125/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Arunsai125/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Arunsai125/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunsai125/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -447,6 +449,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0415-add-strings](https://github.com/Arunsai125/LeetCode/tree/master/0415-add-strings) |
 | [0797-rabbits-in-forest](https://github.com/Arunsai125/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Arunsai125/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Arunsai125/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Arunsai125/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Arunsai125/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Arunsai125/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -926,6 +929,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0566-reshape-the-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Arunsai125/LeetCode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/Arunsai125/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0854-making-a-large-island](https://github.com/Arunsai125/LeetCode/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0967-minimum-falling-path-sum) |
