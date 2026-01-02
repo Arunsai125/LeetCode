@@ -1,10 +1,9 @@
 class Solution {
-    public int repeatedNTimes(int[] nums) {
-        Map<Integer, Integer> map = new HashMap<>();
-        for(int i : nums){
-            map.put(i, map.getOrDefault(i,0)+1);
-            if(map.get(i) == nums.length/2) return i;
-        }
-    return -1;
+    public int repeatedNTimes(int[] A) {
+        for (int k = 1; k <= 3; k++)
+            for (int i = 0; i < A.length - k; i++)
+                if (A[i] == A[i+k])
+                    return A[i];
+        throw null;
     }
 }
