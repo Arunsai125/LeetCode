@@ -8,25 +8,8 @@ class Solution {
     return (int) (ans[0] % mod);
     }
     public long findTotalSum(TreeNode root){
-        long ans = 0;
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-        ans += (long) root.val;
-        while(!q.isEmpty()){
-            int k = q.size();
-            for(int i=0;i<k;i++){
-                TreeNode temp = q.poll();
-                if(temp.left!=null){
-                    q.add(temp.left); 
-                    ans += (long) temp.left.val;
-                }
-                if(temp.right!=null){
-                    q.add(temp.right);
-                    ans += (long) temp.right.val;
-                }
-            }
-        }
-    return ans;
+        if(root==null) return 0;
+    return root.val + findTotalSum(root.left) + findTotalSum(root.right);
     }
     public long dfs(TreeNode root, long[] ans, long totalSum){
         if(root==null) return 0;
