@@ -363,6 +363,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0797-rabbits-in-forest](https://github.com/Arunsai125/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/Arunsai125/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0840-magic-squares-in-grid](https://github.com/Arunsai125/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/Arunsai125/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Arunsai125/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Arunsai125/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -886,6 +887,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0854-making-a-large-island](https://github.com/Arunsai125/LeetCode/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunsai125/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunsai125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -918,6 +920,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0854-making-a-large-island](https://github.com/Arunsai125/LeetCode/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/Arunsai125/LeetCode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
@@ -1219,6 +1222,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunsai125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
@@ -1241,6 +1245,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunsai125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
