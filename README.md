@@ -567,6 +567,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0567-permutation-in-string](https://github.com/Arunsai125/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Arunsai125/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Arunsai125/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Arunsai125/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Arunsai125/LeetCode/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/Arunsai125/LeetCode/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/Arunsai125/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -1015,6 +1016,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0416-partition-equal-subset-sum](https://github.com/Arunsai125/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Arunsai125/LeetCode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Arunsai125/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Arunsai125/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/Arunsai125/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Arunsai125/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arunsai125/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
