@@ -14,7 +14,7 @@ class Solution {
     public void findNSE(int[] heights, int[] nse, int n){
         Stack<Integer> st = new Stack<>();
         for(int i=n-1;i>=0;i--){
-            while(!st.isEmpty() && heights[st.peek()] > heights[i]) st.pop();
+            while(!st.isEmpty() && heights[st.peek()] >= heights[i]) st.pop();
             nse[i] = st.isEmpty() ? n : st.peek();
             st.push(i);
         }
