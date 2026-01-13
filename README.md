@@ -547,6 +547,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arunsai125/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Arunsai125/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Arunsai125/LeetCode/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Arunsai125/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Arunsai125/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -1003,6 +1004,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Arunsai125/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Arunsai125/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Arunsai125/LeetCode/tree/master/0062-unique-paths) |
@@ -1440,6 +1442,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Arunsai125/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arunsai125/LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
