@@ -19,7 +19,6 @@ class Solution {
                     ans = right-left+1;
                     index = left;
                 }
-                
                 hash[s.charAt(left)]++;
                 if(hash[s.charAt(left)] > 0) count--;
                 left++;
