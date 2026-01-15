@@ -324,6 +324,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arunsai125/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arunsai125/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3797-design-spreadsheet](https://github.com/Arunsai125/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3804-number-of-centered-subarrays](https://github.com/Arunsai125/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 | [3827-implement-router](https://github.com/Arunsai125/LeetCode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arunsai125/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -425,6 +426,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arunsai125/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arunsai125/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Arunsai125/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3804-number-of-centered-subarrays](https://github.com/Arunsai125/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 | [3827-implement-router](https://github.com/Arunsai125/LeetCode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Arunsai125/LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -1296,6 +1298,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3201-distribute-candies-among-children-ii](https://github.com/Arunsai125/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Arunsai125/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Arunsai125/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3804-number-of-centered-subarrays](https://github.com/Arunsai125/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
