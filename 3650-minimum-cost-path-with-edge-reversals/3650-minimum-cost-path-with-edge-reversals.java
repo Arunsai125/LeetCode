@@ -26,6 +26,7 @@ class Solution {
         while(!pq.isEmpty()){
             Pair temp = pq.poll();
             if(temp.node == n-1) return distance[temp.node];
+            if (temp.distance != distance[temp.node]) continue;
             for(Pair p : list.get(temp.node)){
                 int v = p.node;
                 int w = p.distance;
