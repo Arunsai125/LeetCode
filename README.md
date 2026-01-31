@@ -156,6 +156,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0724-find-pivot-index](https://github.com/Arunsai125/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Arunsai125/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Arunsai125/LeetCode/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Arunsai125/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Arunsai125/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0792-binary-search](https://github.com/Arunsai125/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -707,6 +708,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0436-find-right-interval](https://github.com/Arunsai125/LeetCode/tree/master/0436-find-right-interval) |
 | [0493-reverse-pairs](https://github.com/Arunsai125/LeetCode/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/Arunsai125/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Arunsai125/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Arunsai125/LeetCode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Arunsai125/LeetCode/tree/master/0907-koko-eating-bananas) |
