@@ -283,6 +283,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Arunsai125/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2777-find-the-distinct-difference-array](https://github.com/Arunsai125/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Arunsai125/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arunsai125/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Arunsai125/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Arunsai125/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Arunsai125/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1176,6 +1177,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2689-rearranging-fruits](https://github.com/Arunsai125/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Arunsai125/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Arunsai125/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arunsai125/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Arunsai125/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Arunsai125/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3226-minimum-number-game](https://github.com/Arunsai125/LeetCode/tree/master/3226-minimum-number-game) |
@@ -1330,6 +1332,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2202-sum-of-k-mirror-numbers](https://github.com/Arunsai125/LeetCode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunsai125/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Arunsai125/LeetCode/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arunsai125/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Arunsai125/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Arunsai125/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Arunsai125/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
