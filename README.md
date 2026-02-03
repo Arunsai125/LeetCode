@@ -323,6 +323,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3623-count-number-of-trapezoids-i](https://github.com/Arunsai125/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunsai125/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Arunsai125/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3637-trionic-array-i](https://github.com/Arunsai125/LeetCode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Arunsai125/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Arunsai125/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Arunsai125/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
