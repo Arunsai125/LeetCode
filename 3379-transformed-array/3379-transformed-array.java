@@ -4,28 +4,14 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             if(nums[i]==0) result[i] = 0;
             else if(nums[i] > 0){
-                result[i] = forwardTransform(nums, i, (nums[i])%nums.length);
+                int idx = nums[i]%nums.length;
+                result[i] = nums[(i+idx)%nums.length];
             }
-            else result[i] = backwardTransform(nums, i, (-1 * nums[i])%nums.length);
+            else {
+                int idx = (-1*nums[i])%nums.length;
+                result[i] = nums[(i+nums.length-idx)%nums.length];
+            }
         }
     return result;
-    }
-    public int forwardTransform(int[] nums, int start, int target){
-        int ans = nums[start];
-        while(target!=0){
-            target--;
-            start++;
-            ans = nums[start%nums.length];
-        }
-    return ans;
-    }
-    public int backwardTransform(int[] nums, int start, int target){
-        int ans = nums[start];
-        while(target!=0){
-            target--;
-            start--;
-            ans = nums[(start + nums.length)%nums.length];
-        }
-    return ans;
     }
 }
