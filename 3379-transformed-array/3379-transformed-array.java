@@ -4,9 +4,9 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             if(nums[i]==0) result[i] = 0;
             else if(nums[i] > 0){
-                result[i] = forwardTransform(nums, i, nums[i]);
+                result[i] = forwardTransform(nums, i, (nums[i])%nums.length);
             }
-            else result[i] = backwardTransform(nums, i, -1 * nums[i]);
+            else result[i] = backwardTransform(nums, i, (-1 * nums[i])%nums.length);
         }
     return result;
     }
@@ -24,7 +24,7 @@ class Solution {
         while(target!=0){
             target--;
             start--;
-            ans = nums[(start + 100*nums.length)%nums.length];
+            ans = nums[(start + nums.length)%nums.length];
         }
     return ans;
     }
