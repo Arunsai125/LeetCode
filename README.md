@@ -232,6 +232,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1876-map-of-highest-peak](https://github.com/Arunsai125/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arunsai125/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/Arunsai125/LeetCode/tree/master/1895-largest-magic-square) |
+| [1929-concatenation-of-array](https://github.com/Arunsai125/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Arunsai125/LeetCode/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arunsai125/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -850,6 +851,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0898-transpose-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Arunsai125/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Arunsai125/LeetCode/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Arunsai125/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Arunsai125/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Arunsai125/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arunsai125/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
