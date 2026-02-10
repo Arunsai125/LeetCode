@@ -177,6 +177,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0967-minimum-falling-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Arunsai125/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Arunsai125/LeetCode/tree/master/0994-rotting-oranges) |
+| [1002-find-common-characters](https://github.com/Arunsai125/LeetCode/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/Arunsai125/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Arunsai125/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Arunsai125/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -395,6 +396,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Arunsai125/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunsai125/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Arunsai125/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1002-find-common-characters](https://github.com/Arunsai125/LeetCode/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/Arunsai125/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Arunsai125/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arunsai125/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -612,6 +614,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0822-unique-morse-code-words](https://github.com/Arunsai125/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0868-push-dominoes](https://github.com/Arunsai125/LeetCode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Arunsai125/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1002-find-common-characters](https://github.com/Arunsai125/LeetCode/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/Arunsai125/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Arunsai125/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Arunsai125/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
