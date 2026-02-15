@@ -480,6 +480,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0048-rotate-image](https://github.com/Arunsai125/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Arunsai125/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Arunsai125/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Arunsai125/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Arunsai125/LeetCode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Arunsai125/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Arunsai125/LeetCode/tree/master/0189-rotate-array) |
@@ -581,6 +582,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0012-integer-to-roman](https://github.com/Arunsai125/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arunsai125/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Arunsai125/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Arunsai125/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Arunsai125/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Arunsai125/LeetCode/tree/master/0125-valid-palindrome) |
@@ -855,6 +857,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Arunsai125/LeetCode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Arunsai125/LeetCode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Arunsai125/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Arunsai125/LeetCode/tree/master/0415-add-strings) |
@@ -1124,6 +1127,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Arunsai125/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Arunsai125/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Arunsai125/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Arunsai125/LeetCode/tree/master/0231-power-of-two) |
