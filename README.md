@@ -1137,6 +1137,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0338-counting-bits](https://github.com/Arunsai125/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Arunsai125/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Arunsai125/LeetCode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Arunsai125/LeetCode/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Arunsai125/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Arunsai125/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Arunsai125/LeetCode/tree/master/0645-set-mismatch) |
@@ -1533,6 +1534,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0078-subsets](https://github.com/Arunsai125/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arunsai125/LeetCode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Arunsai125/LeetCode/tree/master/0401-binary-watch) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunsai125/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arunsai125/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Arunsai125/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
