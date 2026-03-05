@@ -647,6 +647,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1666-make-the-string-great](https://github.com/Arunsai125/LeetCode/tree/master/1666-make-the-string-great) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Arunsai125/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Arunsai125/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Arunsai125/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1797-goal-parser-interpretation](https://github.com/Arunsai125/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Arunsai125/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Arunsai125/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
