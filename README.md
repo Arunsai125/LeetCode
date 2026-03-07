@@ -651,6 +651,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Arunsai125/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1797-goal-parser-interpretation](https://github.com/Arunsai125/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Arunsai125/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Arunsai125/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Arunsai125/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Arunsai125/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2128-reverse-prefix-of-word](https://github.com/Arunsai125/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -713,6 +714,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Arunsai125/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/Arunsai125/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Arunsai125/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Arunsai125/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Arunsai125/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1127,6 +1129,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arunsai125/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Arunsai125/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arunsai125/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Arunsai125/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arunsai125/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2054-two-best-non-overlapping-events](https://github.com/Arunsai125/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Arunsai125/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
