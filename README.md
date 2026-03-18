@@ -354,6 +354,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Arunsai125/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3863-power-grid-maintenance](https://github.com/Arunsai125/LeetCode/tree/master/3863-power-grid-maintenance) |
+| [3866-first-unique-even-element](https://github.com/Arunsai125/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -467,6 +468,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3827-implement-router](https://github.com/Arunsai125/LeetCode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Arunsai125/LeetCode/tree/master/3863-power-grid-maintenance) |
+| [3866-first-unique-even-element](https://github.com/Arunsai125/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arunsai125/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -1344,6 +1346,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arunsai125/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Arunsai125/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Arunsai125/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3866-first-unique-even-element](https://github.com/Arunsai125/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Arunsai125/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Geometry
 |  |
