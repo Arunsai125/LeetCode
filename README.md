@@ -320,6 +320,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Arunsai125/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Arunsai125/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/Arunsai125/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Arunsai125/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Arunsai125/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Arunsai125/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1096,6 +1097,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Arunsai125/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Arunsai125/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Arunsai125/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Arunsai125/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Arunsai125/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Arunsai125/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Arunsai125/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -1449,6 +1451,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arunsai125/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Arunsai125/LeetCode/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Arunsai125/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Arunsai125/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Arunsai125/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Arunsai125/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Arunsai125/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -1483,6 +1486,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Arunsai125/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Arunsai125/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Arunsai125/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Arunsai125/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Arunsai125/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arunsai125/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
