@@ -1,15 +1,13 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        Arrays.sort(nums1);
-        boolean isFirstElementOdd = nums1[0]%2==1;
-        if(isFirstElementOdd==true) return true;
+        int min = Integer.MAX_VALUE;
         boolean areAllEven = true;
         for(int i : nums1) {
+            min = Math.min(min, i);
             if(i%2==1){
                 areAllEven = false;
-                break;
             }
         }
-    return areAllEven;
+    return areAllEven || min%2==1;
     }
 }
