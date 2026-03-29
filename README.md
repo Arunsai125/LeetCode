@@ -173,6 +173,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0940-fruit-into-baskets](https://github.com/Arunsai125/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Arunsai125/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Arunsai125/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Arunsai125/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Arunsai125/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Arunsai125/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -409,6 +410,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0900-reordered-power-of-2](https://github.com/Arunsai125/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0904-fruit-into-baskets](https://github.com/Arunsai125/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/Arunsai125/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Arunsai125/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Arunsai125/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunsai125/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Arunsai125/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -646,6 +648,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0822-unique-morse-code-words](https://github.com/Arunsai125/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0868-push-dominoes](https://github.com/Arunsai125/LeetCode/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Arunsai125/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Arunsai125/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/Arunsai125/LeetCode/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/Arunsai125/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Arunsai125/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
