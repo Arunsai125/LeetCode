@@ -282,6 +282,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunsai125/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Arunsai125/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2504-find-all-good-indices](https://github.com/Arunsai125/LeetCode/tree/master/2504-find-all-good-indices) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Arunsai125/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Arunsai125/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Arunsai125/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/Arunsai125/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -702,6 +703,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2427-first-letter-to-appear-twice](https://github.com/Arunsai125/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2429-design-a-food-rating-system](https://github.com/Arunsai125/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Arunsai125/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Arunsai125/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Arunsai125/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Arunsai125/LeetCode/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Arunsai125/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
