@@ -125,6 +125,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0349-intersection-of-two-arrays](https://github.com/Arunsai125/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Arunsai125/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0396-rotate-function](https://github.com/Arunsai125/LeetCode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Arunsai125/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Arunsai125/LeetCode/tree/master/0414-third-maximum-number) |
@@ -522,6 +523,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0326-power-of-three](https://github.com/Arunsai125/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arunsai125/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Arunsai125/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/Arunsai125/LeetCode/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Arunsai125/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Arunsai125/LeetCode/tree/master/0415-add-strings) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Arunsai125/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1172,6 +1174,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0221-maximal-square](https://github.com/Arunsai125/LeetCode/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/Arunsai125/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Arunsai125/LeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Arunsai125/LeetCode/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/Arunsai125/LeetCode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Arunsai125/LeetCode/tree/master/0416-partition-equal-subset-sum) |
