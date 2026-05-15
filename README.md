@@ -298,6 +298,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2737-row-with-maximum-ones](https://github.com/Arunsai125/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Arunsai125/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2777-find-the-distinct-difference-array](https://github.com/Arunsai125/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
+| [2784-check-if-array-is-good](https://github.com/Arunsai125/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Arunsai125/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arunsai125/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arunsai125/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -458,6 +459,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Arunsai125/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Arunsai125/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2777-find-the-distinct-difference-array](https://github.com/Arunsai125/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
+| [2784-check-if-array-is-good](https://github.com/Arunsai125/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Arunsai125/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Arunsai125/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Arunsai125/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -1322,6 +1324,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Arunsai125/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Arunsai125/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Arunsai125/LeetCode/tree/master/2689-rearranging-fruits) |
+| [2784-check-if-array-is-good](https://github.com/Arunsai125/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Arunsai125/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Arunsai125/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Arunsai125/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
