@@ -233,6 +233,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Arunsai125/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Arunsai125/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Arunsai125/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arunsai125/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1791-richest-customer-wealth](https://github.com/Arunsai125/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/Arunsai125/LeetCode/tree/master/1813-maximum-erasure-value) |
