@@ -258,6 +258,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2058-concatenation-of-array](https://github.com/Arunsai125/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Arunsai125/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arunsai125/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2126-destroying-asteroids](https://github.com/Arunsai125/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Arunsai125/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Arunsai125/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2169-simple-bank-system](https://github.com/Arunsai125/LeetCode/tree/master/2169-simple-bank-system) |
@@ -900,6 +901,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Arunsai125/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Arunsai125/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2126-destroying-asteroids](https://github.com/Arunsai125/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunsai125/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arunsai125/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -1329,6 +1331,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Arunsai125/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Arunsai125/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [2126-destroying-asteroids](https://github.com/Arunsai125/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arunsai125/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunsai125/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
