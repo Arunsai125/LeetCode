@@ -351,6 +351,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Arunsai125/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Arunsai125/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Arunsai125/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Arunsai125/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/Arunsai125/LeetCode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Arunsai125/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Arunsai125/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -832,6 +833,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Arunsai125/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Arunsai125/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Arunsai125/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Arunsai125/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Arunsai125/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3827-implement-router](https://github.com/Arunsai125/LeetCode/tree/master/3827-implement-router) |
 ## Divide and Conquer
@@ -926,6 +928,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Arunsai125/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Arunsai125/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Arunsai125/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Arunsai125/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3738-make-array-non-decreasing](https://github.com/Arunsai125/LeetCode/tree/master/3738-make-array-non-decreasing) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Arunsai125/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arunsai125/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1033,6 +1036,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Arunsai125/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Arunsai125/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Arunsai125/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Arunsai125/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Arunsai125/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Arunsai125/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Arunsai125/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1358,6 +1362,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Arunsai125/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Arunsai125/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Arunsai125/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Arunsai125/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Arunsai125/LeetCode/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Heap (Priority Queue)
 |  |
