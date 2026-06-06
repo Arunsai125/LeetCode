@@ -611,6 +611,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3676-smallest-number-with-all-set-bits](https://github.com/Arunsai125/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Arunsai125/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Arunsai125/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Arunsai125/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Arunsai125/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Arunsai125/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Arunsai125/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -1241,6 +1242,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunsai125/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arunsai125/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Arunsai125/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Arunsai125/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1526,6 +1528,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3546-equal-sum-grid-partition-i](https://github.com/Arunsai125/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Arunsai125/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Arunsai125/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Arunsai125/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Arunsai125/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3804-number-of-centered-subarrays](https://github.com/Arunsai125/LeetCode/tree/master/3804-number-of-centered-subarrays) |
 ## Prefix Sum
