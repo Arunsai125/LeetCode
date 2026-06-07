@@ -265,6 +265,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Arunsai125/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arunsai125/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Arunsai125/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/Arunsai125/LeetCode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunsai125/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -455,6 +456,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arunsai125/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2169-simple-bank-system](https://github.com/Arunsai125/LeetCode/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Arunsai125/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Arunsai125/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunsai125/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2226-rings-and-rods](https://github.com/Arunsai125/LeetCode/tree/master/2226-rings-and-rods) |
@@ -1468,6 +1470,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Arunsai125/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Arunsai125/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Arunsai125/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Arunsai125/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1493,6 +1496,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Arunsai125/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Arunsai125/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Arunsai125/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Design
