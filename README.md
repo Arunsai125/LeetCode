@@ -463,6 +463,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2215-finding-3-digit-even-numbers](https://github.com/Arunsai125/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2226-rings-and-rods](https://github.com/Arunsai125/LeetCode/tree/master/2226-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Arunsai125/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Arunsai125/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2384-largest-palindromic-number](https://github.com/Arunsai125/LeetCode/tree/master/2384-largest-palindromic-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Arunsai125/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2429-design-a-food-rating-system](https://github.com/Arunsai125/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -724,6 +725,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2226-rings-and-rods](https://github.com/Arunsai125/LeetCode/tree/master/2226-rings-and-rods) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Arunsai125/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Arunsai125/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Arunsai125/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Arunsai125/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2373-apply-discount-to-prices](https://github.com/Arunsai125/LeetCode/tree/master/2373-apply-discount-to-prices) |
 | [2384-largest-palindromic-number](https://github.com/Arunsai125/LeetCode/tree/master/2384-largest-palindromic-number) |
@@ -1432,6 +1434,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arunsai125/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunsai125/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Arunsai125/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Arunsai125/LeetCode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2384-largest-palindromic-number](https://github.com/Arunsai125/LeetCode/tree/master/2384-largest-palindromic-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Arunsai125/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/Arunsai125/LeetCode/tree/master/2833-furthest-point-from-origin) |
