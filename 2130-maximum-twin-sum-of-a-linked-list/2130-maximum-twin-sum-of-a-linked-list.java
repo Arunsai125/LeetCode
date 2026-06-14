@@ -1,26 +1,20 @@
 class Solution {
     public int pairSum(ListNode head) {
-        int size = 0;
-        ListNode temp = head;
-        while(temp!=null){
-            size++;
-            temp = temp.next;
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode prev = null;
+        while(fast!=null && fast.next!=null){
+            fast = fast.next.next;
+            ListNode next = slow.next;
+            slow.next = prev;
+            prev = slow;
+            slow = next;
         }
-        size=size/2;
         int ans = 0;
-        Deque<Integer> stack = new ArrayDeque<>();
-        int count=0;
-        temp=head;
-        while(temp!=null){
-            count++;
-            if(count<=size){
-                stack.offerFirst(temp.val);
-            }
-            else{
-                int twinOne = stack.pollFirst();
-                ans = Math.max(ans, twinOne + temp.val);
-            }
-            temp=temp.next;
+        while(slow!=null){
+            ans = Math.max(ans, (prev.val+slow.val));
+            slow = slow.next;
+            prev = prev.next;
         }
     return ans;
     }
