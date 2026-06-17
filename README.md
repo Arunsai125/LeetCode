@@ -760,6 +760,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3462-vowels-game-in-a-string](https://github.com/Arunsai125/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Arunsai125/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/Arunsai125/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3612-process-string-with-special-operations-i](https://github.com/Arunsai125/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Arunsai125/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Arunsai125/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Arunsai125/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1003,6 +1004,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Arunsai125/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Arunsai125/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Arunsai125/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/Arunsai125/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Arunsai125/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/Arunsai125/LeetCode/tree/master/3732-calculate-score-after-performing-instructions) |
