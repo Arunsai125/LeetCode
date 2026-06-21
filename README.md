@@ -239,6 +239,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1791-richest-customer-wealth](https://github.com/Arunsai125/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/Arunsai125/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/Arunsai125/LeetCode/tree/master/1833-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Arunsai125/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1839-decode-xored-array](https://github.com/Arunsai125/LeetCode/tree/master/1839-decode-xored-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Arunsai125/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arunsai125/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -918,6 +919,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Arunsai125/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Arunsai125/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Arunsai125/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/Arunsai125/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1975-maximum-matrix-sum](https://github.com/Arunsai125/LeetCode/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/Arunsai125/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -1356,6 +1358,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arunsai125/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Arunsai125/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Arunsai125/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1833-maximum-ice-cream-bars](https://github.com/Arunsai125/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arunsai125/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Arunsai125/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Arunsai125/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -1442,6 +1445,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Arunsai125/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Arunsai125/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Arunsai125/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/Arunsai125/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arunsai125/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Arunsai125/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Arunsai125/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
