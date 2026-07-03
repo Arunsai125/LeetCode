@@ -392,6 +392,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Arunsai125/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Arunsai125/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Arunsai125/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Arunsai125/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -969,6 +970,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Arunsai125/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Arunsai125/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Arunsai125/LeetCode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Arunsai125/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1413,6 +1415,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3634-minimum-removals-to-balance-array](https://github.com/Arunsai125/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Arunsai125/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Arunsai125/LeetCode/tree/master/3769-sort-integers-by-binary-reflection) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Arunsai125/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
