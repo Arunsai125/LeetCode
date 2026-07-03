@@ -393,6 +393,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3875-construct-uniform-parity-array-i](https://github.com/Arunsai125/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Arunsai125/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Arunsai125/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [3975-filter-occupied-intervals](https://github.com/Arunsai125/LeetCode/tree/master/3975-filter-occupied-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -1416,6 +1417,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Arunsai125/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Arunsai125/LeetCode/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Arunsai125/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [3975-filter-occupied-intervals](https://github.com/Arunsai125/LeetCode/tree/master/3975-filter-occupied-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
