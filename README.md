@@ -309,6 +309,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Arunsai125/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2777-find-the-distinct-difference-array](https://github.com/Arunsai125/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [2784-check-if-array-is-good](https://github.com/Arunsai125/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Arunsai125/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arunsai125/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Arunsai125/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -857,6 +858,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Arunsai125/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Arunsai125/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Arunsai125/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Arunsai125/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Arunsai125/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Arunsai125/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1145,6 +1147,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1876-map-of-highest-peak](https://github.com/Arunsai125/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arunsai125/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Arunsai125/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Arunsai125/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1194,6 +1197,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2454-largest-local-values-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2625-increment-submatrices-by-one](https://github.com/Arunsai125/LeetCode/tree/master/2625-increment-submatrices-by-one) |
 | [2737-row-with-maximum-ones](https://github.com/Arunsai125/LeetCode/tree/master/2737-row-with-maximum-ones) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Arunsai125/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Arunsai125/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Arunsai125/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -1425,6 +1429,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [2054-two-best-non-overlapping-events](https://github.com/Arunsai125/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Arunsai125/LeetCode/tree/master/2429-design-a-food-rating-system) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3226-minimum-number-game](https://github.com/Arunsai125/LeetCode/tree/master/3226-minimum-number-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Arunsai125/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1790,4 +1795,8 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Arunsai125/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
