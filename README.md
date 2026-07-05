@@ -1120,6 +1120,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arunsai125/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Arunsai125/LeetCode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Arunsai125/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Arunsai125/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Arunsai125/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Arunsai125/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1149,6 +1150,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Arunsai125/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1876-map-of-highest-peak](https://github.com/Arunsai125/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Arunsai125/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Arunsai125/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1790,6 +1792,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Arunsai125/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Arunsai125/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Rolling Hash
@@ -1803,5 +1806,6 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Arunsai125/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
