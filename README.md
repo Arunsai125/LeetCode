@@ -197,6 +197,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1241-decompress-run-length-encoded-list](https://github.com/Arunsai125/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Arunsai125/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1287-distance-between-bus-stops](https://github.com/Arunsai125/LeetCode/tree/master/1287-distance-between-bus-stops) |
+| [1288-remove-covered-intervals](https://github.com/Arunsai125/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/Arunsai125/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/Arunsai125/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Arunsai125/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -1376,6 +1377,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1094-car-pooling](https://github.com/Arunsai125/LeetCode/tree/master/1094-car-pooling) |
 | [1137-height-checker](https://github.com/Arunsai125/LeetCode/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Arunsai125/LeetCode/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/Arunsai125/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/Arunsai125/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arunsai125/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Arunsai125/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
