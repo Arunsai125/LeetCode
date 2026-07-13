@@ -202,6 +202,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1306-minimum-absolute-difference](https://github.com/Arunsai125/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/Arunsai125/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Arunsai125/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1331-rank-transform-of-an-array](https://github.com/Arunsai125/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Arunsai125/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arunsai125/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -453,6 +454,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arunsai125/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/Arunsai125/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Arunsai125/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/Arunsai125/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arunsai125/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Arunsai125/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Arunsai125/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1382,6 +1384,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1200-minimum-absolute-difference](https://github.com/Arunsai125/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Arunsai125/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1306-minimum-absolute-difference](https://github.com/Arunsai125/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/Arunsai125/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Arunsai125/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Arunsai125/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
