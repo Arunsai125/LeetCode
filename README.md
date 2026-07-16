@@ -1427,6 +1427,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [3634-minimum-removals-to-balance-array](https://github.com/Arunsai125/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Arunsai125/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/Arunsai125/LeetCode/tree/master/3769-sort-integers-by-binary-reflection) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Arunsai125/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Arunsai125/LeetCode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/Arunsai125/LeetCode/tree/master/3975-filter-occupied-intervals) |
 ## Heap (Priority Queue)
