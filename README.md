@@ -713,6 +713,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1002-find-common-characters](https://github.com/Arunsai125/LeetCode/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/Arunsai125/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Arunsai125/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Arunsai125/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Arunsai125/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Arunsai125/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Arunsai125/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -904,6 +905,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0503-next-greater-element-ii](https://github.com/Arunsai125/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Arunsai125/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Arunsai125/LeetCode/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Arunsai125/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Arunsai125/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Arunsai125/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Arunsai125/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -933,6 +935,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0797-rabbits-in-forest](https://github.com/Arunsai125/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Arunsai125/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arunsai125/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Arunsai125/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Arunsai125/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Arunsai125/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/Arunsai125/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
@@ -993,6 +996,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0496-next-greater-element-i](https://github.com/Arunsai125/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arunsai125/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Arunsai125/LeetCode/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Arunsai125/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Arunsai125/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Arunsai125/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3738-make-array-non-decreasing](https://github.com/Arunsai125/LeetCode/tree/master/3738-make-array-non-decreasing) |
