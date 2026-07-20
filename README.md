@@ -195,6 +195,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1200-minimum-absolute-difference](https://github.com/Arunsai125/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Arunsai125/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Arunsai125/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1260-shift-2d-grid](https://github.com/Arunsai125/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Arunsai125/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1287-distance-between-bus-stops](https://github.com/Arunsai125/LeetCode/tree/master/1287-distance-between-bus-stops) |
 | [1288-remove-covered-intervals](https://github.com/Arunsai125/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -1005,6 +1006,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0874-walking-robot-simulation](https://github.com/Arunsai125/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0898-transpose-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0898-transpose-matrix) |
 | [1094-car-pooling](https://github.com/Arunsai125/LeetCode/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/Arunsai125/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Arunsai125/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Arunsai125/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Arunsai125/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -1190,6 +1192,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0898-transpose-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Arunsai125/LeetCode/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/Arunsai125/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Arunsai125/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
