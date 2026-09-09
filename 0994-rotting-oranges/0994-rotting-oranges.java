@@ -1,60 +1,55 @@
-class Pair{
-    private int x;
-    private int y;
-    private int time;
-    public Pair(int x, int y, int time){
-        this.x=x;
-        this.y=y;
+class Orange{
+    int row;
+    int col;
+    int time;
+    public Orange(int row, int col, int time){
+        this.row=row;
+        this.col=col;
         this.time=time;
     }
-    public int getX(){
-        return this.x;
-    }
-    public int getY(){
-        return this.y;
-    }
-    public int getTime(){
-        return this.time;
-    }
 }
-
 
 class Solution {
     public int orangesRotting(int[][] grid) {
         int ans = 0;
-        Queue<Pair> q = new LinkedList<>();
-        int n = grid.length;
-        int m = grid[0].length;
-        int freshCount=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==0) continue;
+        int m = grid.length;
+        int n = grid[0].length;
+        int freshCount = 0;
+        Queue<Orange> q = new LinkedList<>();
+        boolean[][] visited = new boolean[m][n];
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j] == 2){
+                    q.add(new Orange(i,j,0));
+                    visited[i][j] = true;
+                }
                 else if(grid[i][j]==1) freshCount++;
-                else q.add(new Pair(i,j,0));
+                else continue;
             }
         }
-        int[] dx = {-1,0,1,0};
-        int[] dy = {0,1,0,-1};
+        int[] dirX = {-1,0,1,0};
+        int[] dirY = {0,1,0,-1};
+        int rottenOranges=0;
         while(!q.isEmpty()){
             int k = q.size();
             for(int i=0;i<k;i++){
-                Pair temp = q.poll();
-                int x = temp.getX();
-                int y = temp.getY();
-                int time = temp.getTime();
-                ans = Math.max(ans, time);
+                Orange curr = q.poll();
+                ans = Math.max(ans, curr.time);
+                int x = curr.row;
+                int y = curr.col;
+                int time = curr.time;
                 for(int j=0;j<4;j++){
-                    int newX = x + dx[j];
-                    int newY = y + dy[j];
-                    if(newX>=0 && newX<n && newY>=0 && newY<m && grid[newX][newY]==1){
-                        grid[newX][newY] = 2;
-                        freshCount--;
-                        q.add(new Pair(newX,newY,time+1));
+                    int newX = x + dirX[j];
+                    int newY = y + dirY[j];
+                    if(newX>=0 && newX<m && newY>=0 && newY<n && visited[newX][newY] == false && grid[newX][newY]==1){
+                        rottenOranges++;
+                        visited[newX][newY] = true;
+                        q.add(new Orange(newX,newY,time+1));
                     }
                 }
             }
         }
-        if(freshCount!=0) return -1;
-        return ans;
+        if(rottenOranges != freshCount) return -1;
+    return ans;
     }
 }
