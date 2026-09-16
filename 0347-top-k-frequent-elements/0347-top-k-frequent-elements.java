@@ -15,7 +15,6 @@ class Solution {
             map.put(i, map.getOrDefault(i,0)+1);
         }
         for(int key : map.keySet()) {
-            if(pq.size()==k) break;
             pq.add(new Pair(key, map.get(key)));
         }
         int[] ans = new int[k];
