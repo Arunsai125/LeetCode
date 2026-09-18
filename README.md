@@ -1899,4 +1899,8 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Arunsai125/LeetCode/tree/master/0877-stone-game) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
