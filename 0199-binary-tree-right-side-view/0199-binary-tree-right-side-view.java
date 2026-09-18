@@ -1,4 +1,3 @@
-
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
@@ -8,10 +7,10 @@ class Solution {
         while(!q.isEmpty()){
             int k = q.size();
             for(int i=0;i<k;i++){
-                TreeNode temp = q.poll();
-                if(i==k-1) ans.add(temp.val);
-                if(temp.left!=null) q.add(temp.left); 
-                if(temp.right!=null) q.add(temp.right); 
+                TreeNode top = q.poll();
+                if(i==k-1) ans.add(top.val);
+                if(top.left!=null) q.add(top.left);
+                if(top.right!=null) q.add(top.right);
             }
         }
     return ans;
