@@ -1,15 +1,17 @@
+
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        int value = recursion(root);
-    return value != -1;
-    }
-    public int recursion(TreeNode root){
+        if(root==null) return true;
+        int lh = findHeight(root.left);
+        int rh = findHeight(root.right);
+        if(Math.abs(lh-rh) > 1) return false;
+        boolean leftNode = isBalanced(root.left);
+        boolean rightNode = isBalanced(root.right);
+        if(!leftNode || !rightNode) return false;
+    return true;
+	}
+    public int findHeight(TreeNode root){
         if(root==null) return 0;
-        int left = recursion(root.left);
-        if(left==-1) return -1;
-        int right = recursion(root.right);
-        if(right==-1) return -1;
-        if(Math.abs(right-left) > 1) return -1;
-    return 1 + Math.max(left, right);
+    return 1 + Math.max(findHeight(root.left), findHeight(root.right));
     }
 }
