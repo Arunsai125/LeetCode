@@ -1,21 +1,14 @@
 class Solution {
     public int diameterOfBinaryTree(TreeNode root) {
-        int ans = 0;
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-        while(!q.isEmpty()){
-            int k = q.size();
-            for(int i=0;i<k;i++){
-                TreeNode top = q.poll();
-                ans = Math.max(ans, findHeight(top.left) + findHeight(top.right));
-                if(top.left!=null) q.add(top.left);
-                if(top.right!=null) q.add(top.right);
-            }
-        }
-    return ans;
+        int[] ans = {0};
+        findHeight(root, ans);
+    return ans[0];
     }
-    public int findHeight(TreeNode root){
+    public int findHeight(TreeNode root, int[] ans){
         if(root==null) return 0;
-    return 1 + Math.max(findHeight(root.left),findHeight(root.right));
+        int lh = findHeight(root.left, ans);
+        int rh = findHeight(root.right, ans);
+        ans[0] = Math.max(ans[0], lh+rh);
+    return 1 + Math.max(lh, rh);
     }
 }
