@@ -449,6 +449,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0797-rabbits-in-forest](https://github.com/Arunsai125/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0822-unique-morse-code-words](https://github.com/Arunsai125/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0840-magic-squares-in-grid](https://github.com/Arunsai125/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/Arunsai125/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/Arunsai125/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -1161,6 +1162,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0854-making-a-large-island](https://github.com/Arunsai125/LeetCode/tree/master/0854-making-a-large-island) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunsai125/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1204,6 +1206,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0854-making-a-large-island](https://github.com/Arunsai125/LeetCode/tree/master/0854-making-a-large-island) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Arunsai125/LeetCode/tree/master/0994-rotting-oranges) |
@@ -1608,6 +1611,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0543-diameter-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arunsai125/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Arunsai125/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1646,6 +1650,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0543-diameter-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arunsai125/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Arunsai125/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
