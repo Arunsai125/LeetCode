@@ -1598,6 +1598,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Arunsai125/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1631,6 +1632,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Arunsai125/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1731,6 +1733,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Arunsai125/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunsai125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Arunsai125/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
