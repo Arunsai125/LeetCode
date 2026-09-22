@@ -15,18 +15,18 @@ class Solution {
                 for(int j=1;j<=6;j++){
                     int newPos = top + j;
                     if(newPos > target) break;
-                    int coords[] = findCoords(newPos,n);
+                    int[] coords = findCoords(newPos, n);
                     int x = coords[0];
                     int y = coords[1];
-                    if(visited[x][y] == true){
-                        continue;
+                    if(board[x][y] != -1){
+                        newPos = board[x][y];
                     }
-                    visited[x][y] = true;
-                    if(board[x][y] == -1){
+                    int[] finalCoords = findCoords(newPos, n);
+                    int dx = finalCoords[0];
+                    int dy = finalCoords[1];
+                    if(!visited[dx][dy]){
+                        visited[dx][dy] = true;
                         q.add(newPos);
-                    }
-                    else{
-                        q.add(board[x][y]);
                     }
                 }
             }
