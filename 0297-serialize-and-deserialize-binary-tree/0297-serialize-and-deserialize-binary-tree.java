@@ -1,49 +1,43 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
- * }
- */
+
 public class Codec {
 
     public String serialize(TreeNode root) {
-        StringBuilder ans = new StringBuilder();
-        Queue<TreeNode> q = new LinkedList<>();
         if(root==null) return "";
+        Queue<TreeNode> q = new LinkedList<>();
+        StringBuilder sb = new StringBuilder();
         q.add(root);
         while(!q.isEmpty()){
-                TreeNode temp = q.poll();
-                if(temp!=null){
-                    ans.append(temp.val).append(",");
-                    q.add(temp.left);
-                    q.add(temp.right);
-                }
-                else{
-                    ans.append("#,");
-                }  
+            TreeNode top = q.poll();
+            if(top==null){
+                sb.append("x ");
+                continue;
             }
-        return ans.toString();
+            sb.append(top.val).append(" ");
+            q.add(top.left);
+            q.add(top.right);
         }
+    return sb.toString();
+    }
+
     public TreeNode deserialize(String data) {
-        if(data.isEmpty()) return null;
-        String[] values = data.split(",");
-        TreeNode root = new TreeNode(Integer.parseInt(values[0]));
+        if(data.equals("")) return null;
         Queue<TreeNode> q = new LinkedList<>();
+        String[] values = data.split(" ");
+        TreeNode root = new TreeNode(Integer.parseInt(values[0]));
         q.add(root);
         int i=1;
         while(!q.isEmpty()){
             TreeNode temp = q.poll();
-            if(!values[i].equals("#")){
-                temp.left = new TreeNode(Integer.parseInt(values[i]));
-                q.add(temp.left);
+            if(!values[i].equals("x")){
+                TreeNode left = new TreeNode(Integer.parseInt(values[i]));
+                temp.left = left;
+                q.add(left);
             }
             i++;
-            if(!values[i].equals("#")){
-                temp.right = new TreeNode(Integer.parseInt(values[i]));
-                q.add(temp.right);
+            if(!values[i].equals("x")){
+                TreeNode right = new TreeNode(Integer.parseInt(values[i]));
+                temp.right = right;
+                q.add(right);
             }
             i++;
         }
