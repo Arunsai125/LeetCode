@@ -193,6 +193,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1014-best-sightseeing-pair](https://github.com/Arunsai125/LeetCode/tree/master/1014-best-sightseeing-pair) |
 | [1018-largest-perimeter-triangle](https://github.com/Arunsai125/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Arunsai125/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1020-number-of-enclaves](https://github.com/Arunsai125/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/Arunsai125/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Arunsai125/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Arunsai125/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -1188,6 +1189,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Arunsai125/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Arunsai125/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Arunsai125/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Arunsai125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1236,6 +1238,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0909-snakes-and-ladders](https://github.com/Arunsai125/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Arunsai125/LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Arunsai125/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Arunsai125/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Arunsai125/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -1279,6 +1282,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0909-snakes-and-ladders](https://github.com/Arunsai125/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Arunsai125/LeetCode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Arunsai125/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/Arunsai125/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Arunsai125/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1968,6 +1972,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0130-surrounded-regions](https://github.com/Arunsai125/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Arunsai125/LeetCode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Arunsai125/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Arunsai125/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Arunsai125/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
