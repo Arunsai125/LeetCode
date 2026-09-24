@@ -102,6 +102,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0120-triangle](https://github.com/Arunsai125/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arunsai125/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Arunsai125/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Arunsai125/LeetCode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Arunsai125/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Arunsai125/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Arunsai125/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -1162,6 +1163,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Arunsai125/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Arunsai125/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Arunsai125/LeetCode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Arunsai125/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Arunsai125/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Arunsai125/LeetCode/tree/master/0200-number-of-islands) |
@@ -1214,6 +1216,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Arunsai125/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Arunsai125/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0130-surrounded-regions](https://github.com/Arunsai125/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Arunsai125/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Arunsai125/LeetCode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1257,6 +1260,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0073-set-matrix-zeroes](https://github.com/Arunsai125/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Arunsai125/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Arunsai125/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Arunsai125/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Arunsai125/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Arunsai125/LeetCode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Arunsai125/LeetCode/tree/master/0289-game-of-life) |
@@ -1962,6 +1966,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Arunsai125/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Arunsai125/LeetCode/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Arunsai125/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Arunsai125/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
