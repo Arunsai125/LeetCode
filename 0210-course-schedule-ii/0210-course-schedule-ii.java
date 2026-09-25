@@ -2,14 +2,10 @@ class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         List<List<Integer>> adjList = new ArrayList<>();
         for(int i=0;i<numCourses;i++) adjList.add(new ArrayList<>());
+        int[] indegree = new int[numCourses];
         for(int[] pq : prerequisites){
             adjList.get(pq[1]).add(pq[0]);
-        }
-        int[] indegree = new int[numCourses];
-        for(int i=0;i<numCourses;i++){
-            for(Integer nbr : adjList.get(i)){
-                indegree[nbr]++;
-            }
+            indegree[pq[0]]++;
         }
         Queue<Integer> q = new LinkedList<>();
         for(int i=0;i<numCourses;i++){
