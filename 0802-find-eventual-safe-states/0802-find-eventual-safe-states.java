@@ -1,29 +1,27 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
-        List<List<Integer>> adjList = new ArrayList<>();
         int n = graph.length;
-        for(int i=0;i<n;i++) adjList.add(new ArrayList<>());
-        int[] indegree = new int[n];
+        boolean[] vis = new boolean[n];
+        boolean[] pathVis = new boolean[n];
+        boolean[] safeNodes = new boolean[n];
         for(int i=0;i<n;i++){
-            for(int nbr : graph[i]){
-                adjList.get(nbr).add(i);
-                indegree[i]++;
-            }
-        }
-        Queue<Integer> q = new LinkedList<>();
-        for(int i=0;i<indegree.length;i++){
-            if(indegree[i]==0) q.add(i);
+            if(!vis[i]) dfs(i,vis,pathVis,safeNodes,graph);
         }
         List<Integer> ans = new ArrayList<>();
-        while(!q.isEmpty()){
-            int top = q.poll();
-            ans.add(top);
-            for(int nbr : adjList.get(top)){
-                indegree[nbr]--;
-                if(indegree[nbr]==0) q.add(nbr);
-            }
+        for(int i=0;i<n;i++){
+            if(safeNodes[i]) ans.add(i);
         }
-        Collections.sort(ans);
     return ans;
+    }
+    public boolean dfs(int node, boolean[] vis, boolean[] pathVis, boolean[] safeNodes, int[][] graph){
+        vis[node] = true;
+        pathVis[node] = true;
+        for(int nbr : graph[node]){
+            if(!vis[nbr]){ if(dfs(nbr,vis,pathVis,safeNodes,graph)) return true; }
+            else if(pathVis[nbr]) return true;
+        }
+        safeNodes[node] = true;
+        pathVis[node] = false;
+    return false;
     }
 }
