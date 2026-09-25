@@ -1186,6 +1186,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0744-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0802-find-eventual-safe-states](https://github.com/Arunsai125/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Arunsai125/LeetCode/tree/master/0854-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1236,6 +1237,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0744-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0802-find-eventual-safe-states](https://github.com/Arunsai125/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Arunsai125/LeetCode/tree/master/0854-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1865,6 +1867,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0207-course-schedule](https://github.com/Arunsai125/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arunsai125/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Arunsai125/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Arunsai125/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Arunsai125/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Hash Function
@@ -1963,6 +1966,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0207-course-schedule](https://github.com/Arunsai125/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arunsai125/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Arunsai125/LeetCode/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Arunsai125/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Arunsai125/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Arunsai125/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Arunsai125/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -2011,4 +2015,12 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Arunsai125/LeetCode/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Arunsai125/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Arunsai125/LeetCode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
