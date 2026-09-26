@@ -1183,6 +1183,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arunsai125/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Arunsai125/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Arunsai125/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -1234,6 +1235,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arunsai125/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Arunsai125/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Arunsai125/LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Arunsai125/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -1547,6 +1549,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0347-top-k-frequent-elements](https://github.com/Arunsai125/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Arunsai125/LeetCode/tree/master/0506-relative-ranks) |
+| [0743-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/Arunsai125/LeetCode/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -1845,6 +1848,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunsai125/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Arunsai125/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1966,6 +1970,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0207-course-schedule](https://github.com/Arunsai125/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arunsai125/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Arunsai125/LeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0743-network-delay-time) |
 | [0802-find-eventual-safe-states](https://github.com/Arunsai125/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Arunsai125/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Arunsai125/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -2023,4 +2028,8 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Arunsai125/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
