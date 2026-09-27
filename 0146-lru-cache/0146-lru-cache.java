@@ -42,19 +42,14 @@ class LRUCache {
             insertAfterHead(node);
         }
         else{        
-            if(map.size() < capacity){
-                Node node = new Node(key,value);
-                map.put(key, node);
-                insertAfterHead(node);
-            }
-            else{
+            if(map.size() == capacity){
                 Node del = tail.prev;
                 map.remove(del.key);
                 deleteNode(del);
+            }                
                 Node node = new Node(key,value);
                 map.put(key, node);
                 insertAfterHead(node);
-            }
         }
     }
     public void deleteNode(Node node){
