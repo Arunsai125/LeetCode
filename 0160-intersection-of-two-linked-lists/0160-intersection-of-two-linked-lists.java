@@ -9,6 +9,6 @@ public class Solution {
             if(p1==null) p1 = headB;
             if(p2==null) p2 = headA;
         }
-    return p1;
+    return p2;
     }
 }
