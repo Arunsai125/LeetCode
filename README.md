@@ -571,6 +571,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0142-linked-list-cycle-ii](https://github.com/Arunsai125/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Arunsai125/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Arunsai125/LeetCode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/Arunsai125/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Arunsai125/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Arunsai125/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Arunsai125/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -939,6 +940,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0053-maximum-subarray](https://github.com/Arunsai125/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arunsai125/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Arunsai125/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/Arunsai125/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Arunsai125/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Arunsai125/LeetCode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Arunsai125/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -1138,6 +1140,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0141-linked-list-cycle](https://github.com/Arunsai125/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arunsai125/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Arunsai125/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Arunsai125/LeetCode/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arunsai125/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Arunsai125/LeetCode/tree/master/0189-rotate-array) |
@@ -1484,6 +1487,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0056-merge-intervals](https://github.com/Arunsai125/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Arunsai125/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arunsai125/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Arunsai125/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Arunsai125/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arunsai125/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Arunsai125/LeetCode/tree/master/0229-majority-element-ii) |
@@ -1939,6 +1943,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Arunsai125/LeetCode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Arunsai125/LeetCode/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Arunsai125/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
