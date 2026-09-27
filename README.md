@@ -764,6 +764,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Arunsai125/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Arunsai125/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Arunsai125/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Arunsai125/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Arunsai125/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/Arunsai125/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -965,6 +966,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Arunsai125/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Arunsai125/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Arunsai125/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Arunsai125/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Arunsai125/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Arunsai125/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -2053,4 +2055,8 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arunsai125/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Arunsai125/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
