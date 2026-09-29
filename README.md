@@ -1192,6 +1192,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Arunsai125/LeetCode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Arunsai125/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Arunsai125/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -1677,6 +1678,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Arunsai125/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Arunsai125/LeetCode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Arunsai125/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Arunsai125/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -1722,6 +1724,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Arunsai125/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Arunsai125/LeetCode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Arunsai125/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Arunsai125/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -1975,6 +1978,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0022-generate-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Arunsai125/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Arunsai125/LeetCode/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/Arunsai125/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Arunsai125/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/Arunsai125/LeetCode/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/Arunsai125/LeetCode/tree/master/1980-find-unique-binary-string) |
