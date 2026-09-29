@@ -9,8 +9,8 @@ class Solution {
         if(root == null) return;
         sum[0] = (sum[0] * 10) + root.val;
         if(root.left==null && root.right==null) ans[0] += sum[0];
-        dfs(root.left, sum, ans);
         dfs(root.right, sum, ans);
+        dfs(root.left, sum, ans);
         sum[0] /= 10;
     }
 }
