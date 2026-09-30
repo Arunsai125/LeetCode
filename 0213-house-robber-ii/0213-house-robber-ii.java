@@ -23,12 +23,13 @@ class Solution {
     return Math.max(ans1,ans2);
     }
     public int findMax(List<Integer> list){
-        int[] dp = new int[list.size()];
-        dp[0] = list.get(0);
-        dp[1] = Math.max(list.get(1), dp[0]);
+        int prev2 = list.get(0);
+        int prev1 = Math.max(list.get(1), prev2);
         for(int i=2;i<list.size();i++){
-            dp[i] = Math.max(list.get(i) + dp[i-2], dp[i-1]);
+            int curr = Math.max(list.get(i) + prev2, prev1);
+            prev2 = prev1;
+            prev1 = curr;
         }
-    return dp[list.size()-1];
+    return prev1;
     }
 }
