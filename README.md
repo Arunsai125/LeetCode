@@ -186,6 +186,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0953-verifying-an-alien-dictionary](https://github.com/Arunsai125/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Arunsai125/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/Arunsai125/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Arunsai125/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Arunsai125/LeetCode/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/Arunsai125/LeetCode/tree/master/1002-find-common-characters) |
@@ -1411,6 +1412,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0877-stone-game](https://github.com/Arunsai125/LeetCode/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Arunsai125/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [0983-minimum-cost-for-tickets](https://github.com/Arunsai125/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/Arunsai125/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-best-sightseeing-pair](https://github.com/Arunsai125/LeetCode/tree/master/1014-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Arunsai125/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
