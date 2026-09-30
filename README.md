@@ -1407,6 +1407,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0647-palindromic-substrings](https://github.com/Arunsai125/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Arunsai125/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Arunsai125/LeetCode/tree/master/0788-rotated-digits) |
+| [0790-domino-and-tromino-tiling](https://github.com/Arunsai125/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
 | [0806-domino-and-tromino-tiling](https://github.com/Arunsai125/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Arunsai125/LeetCode/tree/master/0868-push-dominoes) |
 | [0877-stone-game](https://github.com/Arunsai125/LeetCode/tree/master/0877-stone-game) |
