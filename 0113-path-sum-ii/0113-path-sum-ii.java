@@ -1,22 +1,25 @@
 class Solution {
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> path = new ArrayList<>();
-        int sum = targetSum;
-        dfs(root, sum, path, ans);
+        List<Integer> temp = new ArrayList<>();
+        dfs(root, targetSum, temp, ans);
     return ans;
     }
-    public void dfs(TreeNode root, int sum,  List<Integer> path, List<List<Integer>> ans){
+    public void dfs(TreeNode root, int targetSum, List<Integer> temp, List<List<Integer>> ans){
         if(root==null) return;
-        sum -= root.val;
-        path.add(root.val);
-        if(root.left==null && root.right==null && sum == 0){
-            ans.add(new ArrayList<>(path));
-            path.remove(path.size()-1);
+        if(root.left==null && root.right==null && root.val == targetSum){
+            temp.add(root.val);
+            ans.add(new ArrayList<>(temp));
+            temp.remove(temp.size()-1);
+            targetSum += root.val;
             return;
         }
-        dfs(root.left, sum, path, ans);
-        dfs(root.right, sum, path, ans);
-        path.remove(path.size()-1);
+        targetSum -= root.val;
+        temp.add(root.val);
+        dfs(root.left, targetSum, temp, ans);
+        dfs(root.right, targetSum, temp, ans);
+    temp.remove(temp.size()-1);
+    targetSum += root.val;
+    return;
     }
 }
