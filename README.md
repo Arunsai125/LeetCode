@@ -188,6 +188,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Arunsai125/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0967-minimum-falling-path-sum](https://github.com/Arunsai125/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/Arunsai125/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
+| [0986-interval-list-intersections](https://github.com/Arunsai125/LeetCode/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Arunsai125/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Arunsai125/LeetCode/tree/master/0994-rotting-oranges) |
 | [1002-find-common-characters](https://github.com/Arunsai125/LeetCode/tree/master/1002-find-common-characters) |
@@ -1174,6 +1175,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0868-push-dominoes](https://github.com/Arunsai125/LeetCode/tree/master/0868-push-dominoes) |
 | [0876-middle-of-the-linked-list](https://github.com/Arunsai125/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Arunsai125/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0986-interval-list-intersections](https://github.com/Arunsai125/LeetCode/tree/master/0986-interval-list-intersections) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Arunsai125/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arunsai125/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/Arunsai125/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -2096,4 +2098,8 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Arunsai125/LeetCode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
