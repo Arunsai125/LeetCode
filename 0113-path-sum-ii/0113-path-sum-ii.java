@@ -12,7 +12,6 @@ class Solution {
             temp.add(root.val);
             ans.add(new ArrayList<>(temp));
             temp.remove(temp.size()-1);
-            targetSum += root.val;
             return;
         }
         targetSum -= root.val;
@@ -20,7 +19,6 @@ class Solution {
         if(root.left!=null) dfs(root.left, targetSum, temp, ans);
         if(root.right!=null) dfs(root.right, targetSum, temp, ans);
     temp.remove(temp.size()-1);
-    targetSum += root.val;
     return;
     }
 }
