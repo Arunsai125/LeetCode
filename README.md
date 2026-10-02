@@ -2097,6 +2097,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sweep Line
 |  |
