@@ -1,17 +1,19 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
         List<String> ans = new ArrayList<>();
-     recur(ans, 0, 0, "", n);
+        recursion(n, ans, 0, 0, "");
     return ans;
     }
-    public void recur(List<String> ans, int left, int right, String s, int n){
-        if(s.length()==n*2){
-            ans.add(s);
+    public void recursion(int length, List<String> ans, int left, int right, String str){
+        if(str.length() == length*2){
+            ans.add(str);
             return;
         }
-        if(left<n){
-            recur(ans,left+1,right,s + "(",n);
+        if(left<length){
+            recursion(length, ans, left+1, right, str+ "(");
         }
-        if(right<left) recur(ans,left,right+1,s + ")",n);
+        if(right<left){
+            recursion(length, ans, left, right+1, str + ")");
+        }
     }
 }
