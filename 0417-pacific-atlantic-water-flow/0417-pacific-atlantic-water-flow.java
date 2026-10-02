@@ -1,83 +1,75 @@
 class Pair{
-    private int r;
-    private int c;
-    public Pair(int r, int c){
-        this.r=r;
-        this.c=c;
+    private int row;
+    private int col;
+    public Pair(int row, int col){
+        this.row=row;
+        this.col=col;
     }
-    public int getR(){ return this.r; }
-    public int getC(){ return this.c; }
+    public int getRow(){
+        return this.row;
+    }
+    public int getCol(){
+        return this.col;
+    }
 }
-
 
 class Solution {
     public List<List<Integer>> pacificAtlantic(int[][] heights) {
+        List<List<Integer>> ans = new ArrayList<>();
         int m = heights.length;
         int n = heights[0].length;
-        boolean[][] vis1 = new boolean[m][n];
-        boolean[][] vis2 = new boolean[m][n];
-        int[] row = {-1,0,1,0};
-        int[] col = {0,1,0,-1};
         Queue<Pair> q = new LinkedList<>();
-        Map<Integer, Integer> map = new HashMap<>();
-        // Iteration Atlantic Ocean
-            for(int i=0;i<n-1;i++) {
-                int val = ((m-1) * n) + i;
-                q.add(new Pair(m-1,i));
-                vis1[m-1][i] = true;
-                map.put(val, map.getOrDefault(val,0)+1);
-            }
-            for(int i=0;i<m;i++){
-                int val = (i * n) + (n-1);
-                q.add(new Pair(i,n-1));
-                vis1[i][n-1] = true;
-                map.put(val, map.getOrDefault(val,0)+1);
-            }
-            updateMap(row,col,q,map,heights,m,n,vis1);
-        // Iteration Pacific Ocean
-        q.clear();
-            for(int i=0;i<n;i++) {
-                int val = (0 * n) + i;
-                q.add(new Pair(0,i));
-                vis2[0][i] = true;
-                map.put(val, map.getOrDefault(val,0)+1);
-            }
-            for(int i=1;i<m;i++){
-                int val = (i * n) + (0);
-                q.add(new Pair(i,0));
-                vis2[i][0] = true;
-                map.put(val, map.getOrDefault(val,0)+1);
-            }
-            updateMap(row,col,q,map,heights,m,n,vis2);
-        List<List<Integer>> ans = new ArrayList<>();
-        for(int key : map.keySet()){
-            if(map.get(key)==2){
-                int r = key/n;
-                int c = key%n;
-                ans.add(Arrays.asList(r,c));
-            }
+        boolean[][] visPac = new boolean[m][n];
+        boolean[][] visAtl = new boolean[m][n];
+        for(int i=0;i<n;i++){
+            q.add(new Pair(0,i));
+            visPac[0][i] = true;
         }
-    return ans;
-    }
-
-    public void updateMap(int[] row, int[] col, Queue<Pair> q, Map<Integer, Integer> map, int[][] heights, int m, int n, boolean[][] vis1){
+        for(int i=1;i<m;i++){
+            q.add(new Pair(i,0));
+            visPac[i][0] = true;
+        }
+        int[] dx = {-1,0,1,0};
+        int[] dy = {0,1,0,-1};
         while(!q.isEmpty()){
-            int k = q.size();
-            for(int i=0;i<k;i++){
-                Pair temp = q.poll();
-                int r = temp.getR();
-                int c = temp.getC();
-                for(int j=0;j<4;j++){
-                    int newR = r + row[j];
-                    int newC = c + col[j];
-                    if(newR>=0 && newR<m && newC>=0 && newC<n && vis1[newR][newC]==false && heights[newR][newC]>=heights[r][c]){
-                            vis1[newR][newC] = true;
-                            q.add(new Pair(newR, newC));
-                            int val = newR*n + newC;
-                            map.put(val, map.getOrDefault(val,0)+1);
-                    }
+            Pair top = q.poll();
+            int row = top.getRow();
+            int col = top.getCol();
+            for(int i=0;i<4;i++){
+                int newRow = row + dx[i];
+                int newCol = col + dy[i];
+                if(newRow>=0 && newRow<m && newCol>=0 && newCol<n && visPac[newRow][newCol]==false && heights[newRow][newCol] >= heights[row][col]){
+                    visPac[newRow][newCol] = true;
+                    q.add(new Pair(newRow, newCol));
                 }
             }
         }
+        for(int i=0;i<m;i++){
+            q.add(new Pair(i,n-1));
+            visAtl[i][n-1] = true;
+        }
+        for(int i=0;i<n;i++){
+            q.add(new Pair(m-1,i));
+            visAtl[m-1][i] = true;
+        }
+        while(!q.isEmpty()){
+            Pair top = q.poll();
+            int row = top.getRow();
+            int col = top.getCol();
+            for(int i=0;i<4;i++){
+                int newRow = row + dx[i];
+                int newCol = col + dy[i];
+                if(newRow>=0 && newRow<m && newCol>=0 && newCol<n && visAtl[newRow][newCol]==false && heights[newRow][newCol] >= heights[row][col]){
+                    visAtl[newRow][newCol] = true;
+                    q.add(new Pair(newRow, newCol));
+                }
+            }
+        }
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(visPac[i][j] == true && visAtl[i][j] == true) ans.add(Arrays.asList(i,j));
+            }
+        }
+    return ans;
     }
 }
