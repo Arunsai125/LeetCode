@@ -779,6 +779,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Arunsai125/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Arunsai125/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Arunsai125/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Arunsai125/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Arunsai125/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Arunsai125/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -1424,6 +1425,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0983-minimum-cost-for-tickets](https://github.com/Arunsai125/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1013-fibonacci-number](https://github.com/Arunsai125/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-best-sightseeing-pair](https://github.com/Arunsai125/LeetCode/tree/master/1014-best-sightseeing-pair) |
+| [1143-longest-common-subsequence](https://github.com/Arunsai125/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Arunsai125/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arunsai125/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Arunsai125/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -2107,4 +2109,8 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Arunsai125/LeetCode/tree/master/0986-interval-list-intersections) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Arunsai125/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
