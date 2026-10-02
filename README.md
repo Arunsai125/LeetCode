@@ -79,6 +79,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0035-search-insert-position](https://github.com/Arunsai125/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Arunsai125/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Arunsai125/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Arunsai125/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Arunsai125/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Arunsai125/LeetCode/tree/master/0055-jump-game) |
@@ -427,6 +428,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arunsai125/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Arunsai125/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arunsai125/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Arunsai125/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Arunsai125/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Arunsai125/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Arunsai125/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -730,6 +732,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0012-integer-to-roman](https://github.com/Arunsai125/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Arunsai125/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Arunsai125/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Arunsai125/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Arunsai125/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Arunsai125/LeetCode/tree/master/0079-word-search) |
@@ -1504,6 +1507,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0015-3sum](https://github.com/Arunsai125/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Arunsai125/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Arunsai125/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Arunsai125/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Arunsai125/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Arunsai125/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arunsai125/LeetCode/tree/master/0088-merge-sorted-array) |
