@@ -6,6 +6,6 @@ class Solution {
         if(left==null && right==null) return null;
         else if(left==null) return right;
         else if(right==null) return left;
-        else return root;
+    return root;        
     }
 }
