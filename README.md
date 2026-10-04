@@ -764,6 +764,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Arunsai125/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Arunsai125/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Arunsai125/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Arunsai125/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Arunsai125/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Arunsai125/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Arunsai125/LeetCode/tree/master/0721-accounts-merge) |
@@ -980,6 +981,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0402-remove-k-digits](https://github.com/Arunsai125/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Arunsai125/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arunsai125/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Arunsai125/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Arunsai125/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Arunsai125/LeetCode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Arunsai125/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1012,6 +1014,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0605-can-place-flowers](https://github.com/Arunsai125/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Arunsai125/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Arunsai125/LeetCode/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/Arunsai125/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Arunsai125/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0778-reorganize-string](https://github.com/Arunsai125/LeetCode/tree/master/0778-reorganize-string) |
 | [0797-rabbits-in-forest](https://github.com/Arunsai125/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -1416,6 +1419,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0518-coin-change-ii](https://github.com/Arunsai125/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Arunsai125/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Arunsai125/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Arunsai125/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Arunsai125/LeetCode/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/Arunsai125/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
@@ -2106,6 +2110,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Arunsai125/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sweep Line
 |  |
