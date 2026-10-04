@@ -163,6 +163,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0628-maximum-product-of-three-numbers](https://github.com/Arunsai125/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Arunsai125/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Arunsai125/LeetCode/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Arunsai125/LeetCode/tree/master/0695-max-area-of-island) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Arunsai125/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0721-accounts-merge](https://github.com/Arunsai125/LeetCode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Arunsai125/LeetCode/tree/master/0724-find-pivot-index) |
@@ -1237,6 +1238,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0547-number-of-provinces](https://github.com/Arunsai125/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arunsai125/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Arunsai125/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Arunsai125/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Arunsai125/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0743-network-delay-time) |
@@ -1291,6 +1293,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0547-number-of-provinces](https://github.com/Arunsai125/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Arunsai125/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Arunsai125/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Arunsai125/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Arunsai125/LeetCode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Arunsai125/LeetCode/tree/master/0743-network-delay-time) |
@@ -1340,6 +1343,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0498-diagonal-traverse](https://github.com/Arunsai125/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Arunsai125/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/Arunsai125/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Arunsai125/LeetCode/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Arunsai125/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/Arunsai125/LeetCode/tree/master/0840-magic-squares-in-grid) |
@@ -2074,6 +2078,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | ------- |
 | [0130-surrounded-regions](https://github.com/Arunsai125/LeetCode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Arunsai125/LeetCode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Arunsai125/LeetCode/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/Arunsai125/LeetCode/tree/master/1020-number-of-enclaves) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Arunsai125/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Arunsai125/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
