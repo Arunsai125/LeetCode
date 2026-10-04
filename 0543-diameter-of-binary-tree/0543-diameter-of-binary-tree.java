@@ -1,8 +1,8 @@
 class Solution {
     public int diameterOfBinaryTree(TreeNode root) {
         int[] ans = {0};
-        findHeight(root, ans);
-    return ans[0];
+        int height = findHeight(root, ans);
+    return ans[0];   
     }
     public int findHeight(TreeNode root, int[] ans){
         if(root==null) return 0;
