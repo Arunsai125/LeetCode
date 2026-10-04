@@ -452,6 +452,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0387-first-unique-character-in-a-string](https://github.com/Arunsai125/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Arunsai125/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Arunsai125/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/Arunsai125/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arunsai125/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Arunsai125/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Arunsai125/LeetCode/tree/master/0500-keyboard-row) |
@@ -587,6 +588,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0234-palindrome-linked-list](https://github.com/Arunsai125/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Arunsai125/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Arunsai125/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Arunsai125/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0876-middle-of-the-linked-list](https://github.com/Arunsai125/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arunsai125/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Arunsai125/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1791,6 +1793,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Arunsai125/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Arunsai125/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Arunsai125/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0432-all-oone-data-structure](https://github.com/Arunsai125/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Arunsai125/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Arunsai125/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2169-simple-bank-system](https://github.com/Arunsai125/LeetCode/tree/master/2169-simple-bank-system) |
@@ -2015,6 +2018,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Arunsai125/LeetCode/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/Arunsai125/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Arunsai125/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Game Theory
 |  |
