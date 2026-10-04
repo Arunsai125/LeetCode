@@ -25,8 +25,8 @@ class Solution {
                 TreeNode node = top.node;
                 if(i==0){left = top.value-min;}
                 if(i==k-1){right = top.value-min;}
-                if(node.left!=null) q.add(new Pair(node.left, 2*top.value + 1));
-                if(node.right!=null) q.add(new Pair(node.right, 2*top.value + 2));
+                if(node.left!=null) q.add(new Pair(node.left, 2*(top.value-min) + 1));
+                if(node.right!=null) q.add(new Pair(node.right, 2*(top.value-min) + 2));
             }
             ans = Math.max(ans, right-left+1);
         }
