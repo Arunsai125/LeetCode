@@ -783,6 +783,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0953-verifying-an-alien-dictionary](https://github.com/Arunsai125/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/Arunsai125/LeetCode/tree/master/1002-find-common-characters) |
 | [1006-vowel-spellchecker](https://github.com/Arunsai125/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1021-remove-outermost-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Arunsai125/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Arunsai125/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Arunsai125/LeetCode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -993,6 +994,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0739-daily-temperatures](https://github.com/Arunsai125/LeetCode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Arunsai125/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Arunsai125/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Arunsai125/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -2135,6 +2137,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [0022-generate-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Arunsai125/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Arunsai125/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sweep Line
 |  |
