@@ -272,6 +272,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Arunsai125/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1876-map-of-highest-peak](https://github.com/Arunsai125/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Arunsai125/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1882-process-tasks-using-servers](https://github.com/Arunsai125/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Arunsai125/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Arunsai125/LeetCode/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/Arunsai125/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -1641,6 +1642,7 @@ If you're prepping for interviews too — happy to connect and exchange tips!
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Arunsai125/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arunsai125/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/Arunsai125/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
+| [1882-process-tasks-using-servers](https://github.com/Arunsai125/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2054-two-best-non-overlapping-events](https://github.com/Arunsai125/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Arunsai125/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Arunsai125/LeetCode/tree/master/2429-design-a-food-rating-system) |
